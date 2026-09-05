@@ -1,0 +1,164 @@
+:root {
+  color: #18202a;
+  background: #f5f7fb;
+  font-family:
+    Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+.app-shell {
+  min-height: 100vh;
+  padding: 32px;
+}
+
+.workspace {
+  width: min(1120px, 100%);
+  margin: 0 auto;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 56px;
+  margin-bottom: 32px;
+}
+
+.brand,
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.brand {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.status-pill {
+  min-height: 34px;
+  padding: 6px 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  background: #ffffff;
+  color: #475569;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.status-online {
+  border-color: #9bd7b3;
+  color: #166534;
+}
+
+.status-offline {
+  border-color: #f2a9a9;
+  color: #991b1b;
+}
+
+.panel {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 420px);
+  gap: 40px;
+  align-items: center;
+  min-height: 520px;
+  padding: 48px;
+  border: 1px solid #d8dee9;
+  border-radius: 8px;
+  background: #ffffff;
+}
+
+.eyebrow {
+  margin: 0 0 12px;
+  color: #2563eb;
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+h1 {
+  max-width: 720px;
+  margin: 0;
+  color: #101828;
+  font-size: clamp(36px, 5vw, 64px);
+  line-height: 1.02;
+  letter-spacing: 0;
+}
+
+.lede {
+  max-width: 620px;
+  margin: 24px 0 0;
+  color: #526070;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.dropzone {
+  display: grid;
+  place-items: center;
+  gap: 12px;
+  aspect-ratio: 4 / 3;
+  padding: 24px;
+  border: 2px dashed #9aa8bb;
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(37, 99, 235, 0.08), rgba(20, 184, 166, 0.08)),
+    #fbfdff;
+  color: #324154;
+  text-align: center;
+}
+
+.dropzone strong,
+.dropzone span {
+  display: block;
+}
+
+.dropzone span {
+  color: #667085;
+}
+
+@media (max-width: 760px) {
+  .app-shell {
+    padding: 20px;
+  }
+
+  .topbar,
+  .panel {
+    align-items: flex-start;
+  }
+
+  .topbar {
+    flex-direction: column;
+  }
+
+  .panel {
+    grid-template-columns: 1fr;
+    min-height: auto;
+    padding: 28px;
+  }
+
+  h1 {
+    font-size: 40px;
+  }
+}
+
