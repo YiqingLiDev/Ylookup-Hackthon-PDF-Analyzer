@@ -65,12 +65,12 @@ enrichment_notes:
    this distinction. If you see this pattern, lower confidence and flag it
    explicitly in enrichment_notes.
 
-3. Cash Leg Transtype is a hardcoded/unverified pattern (always
-   "Disbursed"), never tested against a genuine "Received" case. If this
-   row has a populated credit_amount (money coming IN) and the join
-   preview's cash_leg_transtype still says "Disbursed", flag that
-   specifically as an unverified caveat in enrichment_notes and lower
-   confidence somewhat.
+3. Cash Leg Transtype is now conditional on credit vs. debit ("Received"
+   for a populated credit_amount, "Disbursed" otherwise), but this
+   distinction is new and not yet battle-tested against real "Received"
+   cases. If this row has a populated credit_amount and the join preview's
+   cash_leg_transtype does NOT say "Received", that is a bug signal --
+   flag it explicitly in enrichment_notes and lower confidence.
 
 4. Classification errors cascade into Counterparty Transtype (it's
    derived directly from Classification). If you flagged a Classification

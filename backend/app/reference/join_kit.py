@@ -139,7 +139,13 @@ def compute_join_preview(row: dict, master: MasterData | None = None) -> dict:
         classification = "Review"
 
     currency = row.get("currency") or ""
-    cash_leg_transtype = f"Cash - Disbursed - {currency}"
+    # Mirrors the Joined Output formula (build.py): conditional on whether
+    # this row is a credit (money in) or debit (money out), not
+    # unconditionally "Disbursed".
+    if row.get("credit_amount") is not None:
+        cash_leg_transtype = f"Cash - Received - {currency}"
+    else:
+        cash_leg_transtype = f"Cash - Disbursed - {currency}"
 
     if classification == "Internal":
         counterparty_transtype = "Currency Correcting Credit"
