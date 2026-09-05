@@ -14,10 +14,10 @@ carried over unchanged. The differences from that script:
 - Columns H (Pulled Out Project Code) and J (Pulled Out Sender/
   Beneficiary) are now populated (via Stage 3's AI values, mirrored from
   Raw Data like the other passthrough columns) instead of always blank.
-- Extra metadata columns AC-AF are appended after the reference script's
+- Extra metadata columns AC-AG are appended after the reference script's
   25+3 columns (extraction_confidence, enrichment_confidence,
-  enrichment_notes, embedded screenshot) -- none of the existing formula
-  column letters shift.
+  enrichment_notes, embedded screenshot, verification_notes) -- none of
+  the existing formula column letters shift.
 - Rows are sorted by enrichment_confidence ascending (ties broken by
   extraction_confidence ascending) before being written, so row numbers
   in the formulas correspond to the sorted order.
@@ -136,6 +136,7 @@ def build_workbook(rows: list[dict], output_path: Path) -> Path:
     ws_joined["AD1"] = "enrichment_confidence"
     ws_joined["AE1"] = "enrichment_notes"
     ws_joined["AF1"] = "screenshot"
+    ws_joined["AG1"] = "verification_notes"
 
     raw_sheet = f"'{RAW_SHEET_NAME}'"
 
@@ -251,6 +252,12 @@ def build_workbook(rows: list[dict], output_path: Path) -> Path:
         ws_joined[f"AC{r}"] = row.get("extraction_confidence")
         ws_joined[f"AD{r}"] = row.get("enrichment_confidence")
         ws_joined[f"AE{r}"] = row.get("enrichment_notes")
+        # verification_notes: what Stage 2 (verify.py) corrected, if anything,
+        # comparing the extracted values against the source page image.
+        # Previously computed by Gemini but never written to the workbook --
+        # an analyst had no way to see what was silently overwritten during
+        # verification.
+        ws_joined[f"AG{r}"] = row.get("verification_notes")
 
         ws_joined.row_dimensions[r].height = ROW_HEIGHT_PT
         if screenshot_path and Path(screenshot_path).exists():
