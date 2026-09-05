@@ -172,6 +172,15 @@ function App() {
                             {job.error}
                           </p>
                         )}
+                        {job.failed_files.length > 0 && (
+                          <p
+                            className="jobs-error"
+                            title={`Extraction failed for: ${job.failed_files.join(", ")}. A "review - extraction failed" row was added to the workbook for each.`}
+                          >
+                            Extraction failed for {job.failed_files.length} file
+                            {job.failed_files.length > 1 ? "s" : ""}: {job.failed_files.join(", ")}
+                          </p>
+                        )}
                       </td>
                     </tr>
                   ))}

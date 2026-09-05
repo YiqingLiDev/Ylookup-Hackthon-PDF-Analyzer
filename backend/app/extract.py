@@ -95,13 +95,28 @@ def _render_pages(pdf_path: Path, image_dir: Path) -> dict[int, str]:
     return page_images
 
 
+class ExtractionError(Exception):
+    """Raised when Gemini extraction fails after retries for a given PDF.
+
+    Callers (jobs.py) catch this per-file so one failed document doesn't
+    silently vanish from the batch -- it is surfaced as a failed file on
+    the job and as a placeholder row in the output workbook, rather than
+    the caller quietly moving on with an empty row list.
+    """
+
+    def __init__(self, source_pdf: str):
+        self.source_pdf = source_pdf
+        super().__init__(f"extraction failed for {source_pdf} after retries")
+
+
 def extract_pdf(pdf_path: Path, image_dir: Path) -> list[dict]:
     """Extract raw transaction rows + rendered page screenshots for one PDF.
 
     Returns a list of row dicts (12 raw fields + source_pdf + page +
-    screenshot_path + row_id). If extraction still fails after retries, logs
-    it and returns an empty list rather than raising -- the caller skips
-    this document and continues with the rest of the batch.
+    screenshot_path + row_id). If extraction still fails after retries,
+    raises ExtractionError rather than returning an empty list -- the
+    caller is responsible for surfacing the failure instead of it being
+    indistinguishable from "this statement genuinely has zero rows".
     """
     source_pdf = pdf_path.name
     page_images = _render_pages(pdf_path, image_dir)
@@ -114,8 +129,8 @@ def extract_pdf(pdf_path: Path, image_dir: Path) -> list[dict]:
     )
 
     if result is None:
-        logger.error("extraction failed for %s after retries; skipping document", source_pdf)
-        return []
+        logger.error("extraction failed for %s after retries", source_pdf)
+        raise ExtractionError(source_pdf)
 
     rows: list[dict] = []
     for index, txn in enumerate(result.transactions):
