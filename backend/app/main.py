@@ -1,13 +1,19 @@
 import logging
+from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.requests import Request
 from fastapi.responses import JSONResponse
+from fastapi.staticfiles import StaticFiles
 
 from app.api.router import api_router
 from app.core.config import settings
+
+# Populated by the Docker build (see Dockerfile), which copies the built
+# Vite output here so the API can serve the SPA from the same process/port.
+_FRONTEND_DIST = Path(__file__).resolve().parents[1] / "static"
 
 # INFO-level logs (Gemini call start/success/failure per stage) are the main
 # way to see whether the AI pipeline is actually running -- without this,
@@ -52,6 +58,9 @@ def create_app() -> FastAPI:
         return JSONResponse(status_code=422, content={"error": "No files uploaded"})
 
     app.include_router(api_router, prefix="/api")
+
+    if _FRONTEND_DIST.is_dir():
+        app.mount("/", StaticFiles(directory=_FRONTEND_DIST, html=True), name="frontend")
 
     return app
 
