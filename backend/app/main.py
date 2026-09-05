@@ -1,3 +1,5 @@
+import logging
+
 from fastapi import FastAPI, HTTPException
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
@@ -7,9 +9,29 @@ from fastapi.responses import JSONResponse
 from app.api.router import api_router
 from app.core.config import settings
 
+# INFO-level logs (Gemini call start/success/failure per stage) are the main
+# way to see whether the AI pipeline is actually running -- without this,
+# uvicorn's default logging config only surfaces WARNING+ from app loggers.
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+)
+logging.getLogger("httpx").setLevel(logging.WARNING)
+logging.getLogger("httpcore").setLevel(logging.WARNING)
+
+logger = logging.getLogger(__name__)
+
 
 def create_app() -> FastAPI:
     app = FastAPI(title=settings.app_name)
+
+    masked_key = f"{settings.gemini_api_key[:6]}...{settings.gemini_api_key[-4:]}" if settings.gemini_api_key else "(not set)"
+    logger.info("Gemini config -> model=%s api_key=%s", settings.gemini_model, masked_key)
+    if not settings.gemini_api_key:
+        logger.error(
+            "GEMINI_API_KEY is not set -- every Gemini call will be skipped and rows will "
+            "get confidence=0. Check backend/.env and restart the server."
+        )
 
     app.add_middleware(
         CORSMiddleware,

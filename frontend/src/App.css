@@ -159,6 +159,133 @@ h1 {
   font-size: 14px;
 }
 
+.jobs-section {
+  margin-top: 40px;
+  padding: 32px;
+  border: 1px solid #d8dee9;
+  border-radius: 8px;
+  background: #ffffff;
+}
+
+.jobs-section h2 {
+  margin: 0 0 16px;
+  font-size: 20px;
+  color: #101828;
+}
+
+.jobs-empty {
+  margin: 0;
+  color: #667085;
+}
+
+.jobs-table-wrap {
+  overflow-x: auto;
+}
+
+.jobs-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.jobs-table th {
+  padding: 10px 12px;
+  border-bottom: 2px solid #e2e8f0;
+  color: #475569;
+  font-weight: 700;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.jobs-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #eef1f5;
+  vertical-align: middle;
+}
+
+.jobs-filenames {
+  max-width: 320px;
+  overflow: hidden;
+  color: #101828;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.status-cell {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.status-dot {
+  display: inline-block;
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+.status-dot-pending {
+  background: #ef4444;
+}
+
+.status-dot-error {
+  background: #ef4444;
+  box-shadow: 0 0 0 2px rgba(239, 68, 68, 0.25);
+}
+
+.status-dot-processing {
+  background: #f59e0b;
+  animation: status-pulse 1.2s ease-in-out infinite;
+}
+
+.status-dot-done {
+  background: #22c55e;
+}
+
+.status-dot-label {
+  color: #475569;
+}
+
+@keyframes status-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.35;
+  }
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 6px 16px;
+  border: none;
+  border-radius: 6px;
+  background: #2563eb;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 14px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.download-btn:disabled {
+  background: #cbd5e1;
+  color: #64748b;
+  cursor: not-allowed;
+}
+
+.jobs-error {
+  margin: 4px 0 0;
+  max-width: 220px;
+  overflow: hidden;
+  color: #991b1b;
+  font-size: 12px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 @media (max-width: 760px) {
   .app-shell {
     padding: 20px;

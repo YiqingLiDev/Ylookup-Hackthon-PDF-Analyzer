@@ -1,134 +1,89 @@
-"""PDF bank statement extraction: raw transaction rows + rendered page screenshots."""
+"""Stage 1 -- Extract: PDF -> raw 12 fields per transaction row, via Gemini.
+
+PyMuPDF (fitz) is used only to render each page to a PNG screenshot and to
+get the page count. All field extraction is done by Gemini with forced
+JSON-schema output -- no deterministic table parsing.
+"""
 
 from __future__ import annotations
 
-import re
-from dataclasses import dataclass
+import logging
 from pathlib import Path
 
-import fitz  # PyMuPDF
-import pdfplumber
+import pymupdf
+from pydantic import BaseModel
+
+from app.ai import generate_structured, pdf_part
+
+logger = logging.getLogger(__name__)
 
 RENDER_DPI = 175
 
-# Table header labels (as they appear in the PDF) mapped to our raw field names.
-_COLUMN_MAP = {
-    "bank reference": "bank_reference",
-    "customer reference": "customer_reference",
-    "trn type": "trn_type",
-    "value date": "value_date",
-    "credit amount": "credit_amount",
-    "debit amount": "debit_amount",
-    "balance": "balance",
-    "post date": "post_date",
-}
+EXTRACT_PROMPT = """You are extracting structured data from a bank account statement PDF.
 
-_HEADER_PATTERNS = {
-    "account_name": re.compile(r"Account name\s+(.+?)\s+Closing ledger balance"),
-    "account_number": re.compile(r"Account number\s+(\S+)\s+From"),
-    "currency": re.compile(r"Currency\s+([A-Z]{3})\s+From"),
-}
+Return the statement header fields and every transaction line in the statement's table.
+
+Header fields (these apply to the whole statement, repeated for every row):
+- account_name: the name on the account.
+- account_number: the account number as printed.
+- currency: the ISO currency code of the account (e.g. EUR, USD, DKK, GBP).
+
+For every transaction line in the table, extract:
+- bank_reference: the bank's own reference/transaction ID for this line.
+- customer_reference: the customer/payment reference, if present, else null.
+- trn_type: the transaction type code/label, if present, else null.
+- value_date: the value date as printed (do not reformat), else null.
+- credit_amount: the credit amount as a plain number with no currency symbol
+  and no thousands separators (e.g. 1234.56, not "1,234.56 EUR"). Null if
+  this line has no credit amount.
+- debit_amount: the debit amount as a plain number, same formatting rules.
+  Null if this line has no debit amount.
+- Exactly one of credit_amount / debit_amount should be populated per row;
+  the other must be null. Never populate both, never leave both null.
+- balance: the running balance after this transaction, as a plain number,
+  else null if not printed on this line.
+- post_date: the posting date as printed (do not reformat), else null.
+- narrative: the full free-text description of the transaction. Statements
+  often wrap a single transaction's narrative across multiple lines
+  underneath the row -- join all of those lines into ONE string for
+  narrative. Do not split one transaction's wrapped narrative into multiple
+  rows, and do not merge two distinct transactions into one row.
+- page: the 1-indexed page number of the PDF this transaction row appears on.
+
+Extract every transaction row on every page of the document. Do not skip
+rows, do not summarize, do not invent rows that aren't present. Read
+amounts exactly as printed (after stripping symbols/separators) -- never
+estimate or round."""
 
 
-@dataclass
-class TransactionRow:
+class ExtractedTransaction(BaseModel):
+    bank_reference: str
+    customer_reference: str | None = None
+    trn_type: str | None = None
+    value_date: str | None = None
+    credit_amount: float | None = None
+    debit_amount: float | None = None
+    balance: float | None = None
+    post_date: str | None = None
+    narrative: str
+    page: int
+
+
+class ExtractedDocument(BaseModel):
     account_name: str
     account_number: str
     currency: str
-    bank_reference: str
-    customer_reference: str
-    trn_type: str
-    value_date: str
-    credit_amount: float | None
-    debit_amount: float | None
-    balance: float | None
-    post_date: str
-    narrative: str
-    source_pdf: str
-    page: int
-    screenshot_path: str
-    row_id: str
+    transactions: list[ExtractedTransaction]
 
 
-def _clean_cell(value: str | None) -> str:
-    if value is None:
-        return ""
-    return re.sub(r"\s+", " ", value.replace("\n", " ")).strip()
-
-
-def _parse_amount(value: str | None) -> float | None:
-    cleaned = _clean_cell(value)
-    if not cleaned:
-        return None
-    try:
-        return float(cleaned.replace(",", ""))
-    except ValueError:
-        return None
-
-
-def _extract_header(first_page_text: str) -> dict[str, str]:
-    header: dict[str, str] = {}
-    for field_name, pattern in _HEADER_PATTERNS.items():
-        match = pattern.search(first_page_text)
-        header[field_name] = match.group(1).strip() if match else ""
-    return header
-
-
-def _rows_from_table(table: list[list[str | None]]) -> list[dict[str, str]]:
-    if not table:
-        return []
-
-    header_row = [(_clean_cell(cell)).lower() for cell in table[0]]
-    index_to_field = {
-        idx: _COLUMN_MAP[name] for idx, name in enumerate(header_row) if name in _COLUMN_MAP
-    }
-    if not index_to_field:
-        return []
-
-    rows: list[dict[str, str]] = []
-    i = 1
-    while i < len(table):
-        row = table[i]
-        first_cell = _clean_cell(row[0]) if row else ""
-        first_cell_lower = first_cell.lower()
-        if first_cell_lower == "narrative":
-            i += 1
-            continue
-        if first_cell_lower.startswith("balance as at close") or first_cell_lower.startswith(
-            "balance brought forward"
-        ):
-            i += 1
-            continue
-
-        data = {field_name: "" for field_name in _COLUMN_MAP.values()}
-        for idx, field_name in index_to_field.items():
-            if idx < len(row):
-                data[field_name] = _clean_cell(row[idx])
-
-        narrative = ""
-        if i + 1 < len(table):
-            next_row = table[i + 1]
-            if next_row and _clean_cell(next_row[0]).lower() == "narrative":
-                narrative = _clean_cell(next_row[1]) if len(next_row) > 1 else ""
-                i += 1
-        data["narrative"] = narrative
-        rows.append(data)
-        i += 1
-
-    return rows
-
-
-def extract_pdf(pdf_path: Path, image_dir: Path) -> list[TransactionRow]:
-    """Extract transaction rows and render page screenshots for one PDF."""
+def _render_pages(pdf_path: Path, image_dir: Path) -> dict[int, str]:
     image_dir.mkdir(parents=True, exist_ok=True)
-    source_pdf = pdf_path.name
-    results: list[TransactionRow] = []
+    page_images: dict[int, str] = {}
 
-    doc = fitz.open(pdf_path)
+    doc = pymupdf.open(pdf_path)
     try:
         zoom = RENDER_DPI / 72
-        matrix = fitz.Matrix(zoom, zoom)
-        page_images: dict[int, str] = {}
+        matrix = pymupdf.Matrix(zoom, zoom)
         for page_index in range(doc.page_count):
             pix = doc[page_index].get_pixmap(matrix=matrix)
             image_path = image_dir / f"{pdf_path.stem}_p{page_index + 1}.png"
@@ -137,45 +92,53 @@ def extract_pdf(pdf_path: Path, image_dir: Path) -> list[TransactionRow]:
     finally:
         doc.close()
 
-    with pdfplumber.open(pdf_path) as pdf:
-        header = {}
-        if pdf.pages:
-            header = _extract_header(pdf.pages[0].extract_text() or "")
-
-        row_index = 0
-        for page_index, page in enumerate(pdf.pages):
-            page_number = page_index + 1
-            table = page.extract_table()
-            raw_rows = _rows_from_table(table) if table else []
-
-            for raw in raw_rows:
-                results.append(
-                    TransactionRow(
-                        account_name=header.get("account_name", ""),
-                        account_number=header.get("account_number", ""),
-                        currency=header.get("currency", ""),
-                        bank_reference=raw.get("bank_reference", ""),
-                        customer_reference=raw.get("customer_reference", ""),
-                        trn_type=raw.get("trn_type", ""),
-                        value_date=raw.get("value_date", ""),
-                        credit_amount=_parse_amount(raw.get("credit_amount")),
-                        debit_amount=_parse_amount(raw.get("debit_amount")),
-                        balance=_parse_amount(raw.get("balance")),
-                        post_date=raw.get("post_date", ""),
-                        narrative=raw.get("narrative", ""),
-                        source_pdf=source_pdf,
-                        page=page_number,
-                        screenshot_path=page_images.get(page_number, ""),
-                        row_id=f"{source_pdf}:p{page_number}:{row_index}",
-                    )
-                )
-                row_index += 1
-
-    return results
+    return page_images
 
 
-def extract_pdfs(pdf_paths: list[Path], image_dir: Path) -> list[TransactionRow]:
-    rows: list[TransactionRow] = []
-    for pdf_path in pdf_paths:
-        rows.extend(extract_pdf(pdf_path, image_dir))
+def extract_pdf(pdf_path: Path, image_dir: Path) -> list[dict]:
+    """Extract raw transaction rows + rendered page screenshots for one PDF.
+
+    Returns a list of row dicts (12 raw fields + source_pdf + page +
+    screenshot_path + row_id). If extraction still fails after retries, logs
+    it and returns an empty list rather than raising -- the caller skips
+    this document and continues with the rest of the batch.
+    """
+    source_pdf = pdf_path.name
+    page_images = _render_pages(pdf_path, image_dir)
+    page_count = len(page_images)
+
+    result = generate_structured(
+        parts=[pdf_part(pdf_path.read_bytes()), EXTRACT_PROMPT],
+        response_schema=ExtractedDocument,
+        label=f"extract {source_pdf}",
+    )
+
+    if result is None:
+        logger.error("extraction failed for %s after retries; skipping document", source_pdf)
+        return []
+
+    rows: list[dict] = []
+    for index, txn in enumerate(result.transactions):
+        page = txn.page if 1 <= txn.page <= page_count else 1
+        rows.append(
+            {
+                "account_name": result.account_name,
+                "account_number": result.account_number,
+                "currency": result.currency,
+                "bank_reference": txn.bank_reference,
+                "customer_reference": txn.customer_reference,
+                "trn_type": txn.trn_type,
+                "value_date": txn.value_date,
+                "credit_amount": txn.credit_amount,
+                "debit_amount": txn.debit_amount,
+                "balance": txn.balance,
+                "post_date": txn.post_date,
+                "narrative": txn.narrative,
+                "source_pdf": source_pdf,
+                "page": page,
+                "screenshot_path": page_images.get(page, ""),
+                "row_id": f"{source_pdf}:p{page}:{index}",
+            }
+        )
+
     return rows

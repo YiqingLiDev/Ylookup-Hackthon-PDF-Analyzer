@@ -1,6 +1,7 @@
-"""Writes the final .xlsx: 18 columns, one row per transaction, with an
-embedded screenshot of the source page in each row. Sorted by confidence
-ascending so the rows most needing review are at the top.
+"""Writes the final .xlsx: 19 columns, one row per transaction, with an
+embedded screenshot of the source page in each row. Sorted by
+enrichment_confidence ascending (rows most needing review first), with
+extraction_confidence ascending as the tiebreaker.
 """
 
 from __future__ import annotations
@@ -24,9 +25,10 @@ COLUMNS = [
     "balance",
     "post_date",
     "narrative",
+    "extraction_confidence",
     "company",
     "metric",
-    "confidence",
+    "enrichment_confidence",
     "source_pdf",
     "page",
     "screenshot",
@@ -38,7 +40,9 @@ ROW_HEIGHT_PT = 150
 
 
 def build_workbook(rows: list[dict], output_path: Path) -> Path:
-    ordered_rows = sorted(rows, key=lambda r: r["confidence"])
+    ordered_rows = sorted(
+        rows, key=lambda r: (r.get("enrichment_confidence", 0), r.get("extraction_confidence", 0))
+    )
 
     wb = Workbook()
     ws = wb.active
@@ -64,9 +68,10 @@ def build_workbook(rows: list[dict], output_path: Path) -> Path:
             row.get("balance"),
             row.get("post_date"),
             row.get("narrative"),
+            row.get("extraction_confidence"),
             row.get("company"),
             row.get("metric"),
-            row.get("confidence"),
+            row.get("enrichment_confidence"),
             row.get("source_pdf"),
             row.get("page"),
             None,  # screenshot is embedded as an image, not a cell value

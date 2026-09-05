@@ -1,16 +1,36 @@
 import { FileText, Server } from "lucide-react";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 import "./App.css";
-import { getHealth, processStatements } from "./lib/api";
+import { type JobStatusDTO, type StageStatus, fetchJobs, getHealth, jobDownloadUrl, submitProcessJob } from "./lib/api";
 
 type ApiStatus = "checking" | "online" | "offline";
+
+const POLL_INTERVAL_MS = 1500;
+
+const STAGE_LABEL: Record<StageStatus, string> = {
+  pending: "Not started",
+  processing: "Processing",
+  done: "Ready",
+  error: "Failed",
+};
+
+function StatusDot({ status }: { status: StageStatus }) {
+  return (
+    <span className="status-cell" title={STAGE_LABEL[status]}>
+      <span className={`status-dot status-dot-${status}`} aria-hidden="true" />
+      <span className="status-dot-label">{STAGE_LABEL[status]}</span>
+    </span>
+  );
+}
 
 function App() {
   const [apiStatus, setApiStatus] = useState<ApiStatus>("checking");
   const [files, setFiles] = useState<File[]>([]);
-  const [isProcessing, setIsProcessing] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [submitError, setSubmitError] = useState<string | null>(null);
+  const [jobs, setJobs] = useState<JobStatusDTO[]>([]);
+  const fileInputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
     getHealth()
@@ -18,31 +38,43 @@ function App() {
       .catch(() => setApiStatus("offline"));
   }, []);
 
+  const refreshJobs = async () => {
+    try {
+      const latest = await fetchJobs();
+      setJobs(latest);
+    } catch {
+      // transient poll failure -- keep showing the last known state
+    }
+  };
+
+  useEffect(() => {
+    refreshJobs();
+    const interval = window.setInterval(refreshJobs, POLL_INTERVAL_MS);
+    return () => window.clearInterval(interval);
+  }, []);
+
   const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setFiles(Array.from(event.target.files ?? []));
-    setError(null);
+    setSubmitError(null);
   };
 
   const handleRun = async () => {
     if (files.length === 0) return;
 
-    setIsProcessing(true);
-    setError(null);
+    setIsSubmitting(true);
+    setSubmitError(null);
 
     try {
-      const blob = await processStatements(files);
-      const url = URL.createObjectURL(blob);
-      const link = document.createElement("a");
-      link.href = url;
-      link.download = "sourceline-output.xlsx";
-      document.body.appendChild(link);
-      link.click();
-      document.body.removeChild(link);
-      URL.revokeObjectURL(url);
+      await submitProcessJob(files);
+      setFiles([]);
+      if (fileInputRef.current) {
+        fileInputRef.current.value = "";
+      }
+      await refreshJobs();
     } catch (err) {
-      setError(err instanceof Error ? err.message : "Something went wrong");
+      setSubmitError(err instanceof Error ? err.message : "Something went wrong");
     } finally {
-      setIsProcessing(false);
+      setIsSubmitting(false);
     }
   };
 
@@ -65,7 +97,7 @@ function App() {
             <p className="eyebrow">Bank statement matching</p>
             <h1>Upload statements, review every match, download the workbook.</h1>
             <p className="lede">
-              Every transaction narrative is matched against your master lists by AI, then
+              Every transaction narrative is matched against your reference data by AI, then
               paired with a confidence score and a screenshot of its source page so an
               analyst can verify it before trusting it.
             </p>
@@ -75,26 +107,78 @@ function App() {
             <FileText aria-hidden="true" size={48} />
             <strong>Select bank statement PDFs</strong>
             <input
+              ref={fileInputRef}
               type="file"
               accept="application/pdf"
               multiple
               onChange={handleFileChange}
-              disabled={isProcessing}
+              disabled={isSubmitting}
             />
             {files.length > 0 && (
               <span>
                 {files.length} file{files.length === 1 ? "" : "s"} selected
               </span>
             )}
-            <button
-              type="button"
-              onClick={handleRun}
-              disabled={isProcessing || files.length === 0}
-            >
-              {isProcessing ? "Processing..." : "Run"}
+            <button type="button" onClick={handleRun} disabled={isSubmitting || files.length === 0}>
+              {isSubmitting ? "Queueing..." : "Run"}
             </button>
-            {error && <p className="error-message">{error}</p>}
+            {submitError && <p className="error-message">{submitError}</p>}
           </div>
+        </section>
+
+        <section className="jobs-section">
+          <h2>Processing history</h2>
+          {jobs.length === 0 ? (
+            <p className="jobs-empty">No runs yet -- upload PDFs above and click Run.</p>
+          ) : (
+            <div className="jobs-table-wrap">
+              <table className="jobs-table">
+                <thead>
+                  <tr>
+                    <th>Files</th>
+                    <th>Extract</th>
+                    <th>Verify</th>
+                    <th>Enrich</th>
+                    <th>Download</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {jobs.map((job) => (
+                    <tr key={job.job_id}>
+                      <td className="jobs-filenames" title={job.filenames.join(", ")}>
+                        {job.filenames.join(", ")}
+                      </td>
+                      <td>
+                        <StatusDot status={job.extract} />
+                      </td>
+                      <td>
+                        <StatusDot status={job.verify} />
+                      </td>
+                      <td>
+                        <StatusDot status={job.enrich} />
+                      </td>
+                      <td>
+                        {job.ready ? (
+                          <a className="download-btn" href={jobDownloadUrl(job.job_id)}>
+                            Download
+                          </a>
+                        ) : (
+                          <button type="button" className="download-btn" disabled>
+                            Download
+                          </button>
+                        )}
+                        {job.error && (
+                          <p className="jobs-error" title={job.error}>
+                            {job.error}
+                          </p>
+                        )}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )}
         </section>
       </section>
     </main>
