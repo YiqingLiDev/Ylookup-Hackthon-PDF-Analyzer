@@ -134,26 +134,40 @@ def extract_pdf(pdf_path: Path, image_dir: Path) -> list[dict]:
 
     rows: list[dict] = []
     for index, txn in enumerate(result.transactions):
-        page = txn.page if 1 <= txn.page <= page_count else 1
-        rows.append(
-            {
-                "account_name": result.account_name,
-                "account_number": result.account_number,
-                "currency": result.currency,
-                "bank_reference": txn.bank_reference,
-                "customer_reference": txn.customer_reference,
-                "trn_type": txn.trn_type,
-                "value_date": txn.value_date,
-                "credit_amount": txn.credit_amount,
-                "debit_amount": txn.debit_amount,
-                "balance": txn.balance,
-                "post_date": txn.post_date,
-                "narrative": txn.narrative,
-                "source_pdf": source_pdf,
-                "page": page,
-                "screenshot_path": page_images.get(page, ""),
-                "row_id": f"{source_pdf}:p{page}:{index}",
-            }
-        )
+        page_in_range = 1 <= txn.page <= page_count
+        page = txn.page if page_in_range else 1
+        row = {
+            "account_name": result.account_name,
+            "account_number": result.account_number,
+            "currency": result.currency,
+            "bank_reference": txn.bank_reference,
+            "customer_reference": txn.customer_reference,
+            "trn_type": txn.trn_type,
+            "value_date": txn.value_date,
+            "credit_amount": txn.credit_amount,
+            "debit_amount": txn.debit_amount,
+            "balance": txn.balance,
+            "post_date": txn.post_date,
+            "narrative": txn.narrative,
+            "source_pdf": source_pdf,
+            "page": page,
+            "screenshot_path": page_images.get(page, ""),
+            "row_id": f"{source_pdf}:p{page}:{index}",
+        }
+        if not page_in_range:
+            # Gemini reported a page number outside the document -- rather
+            # than silently pairing this row with page 1's screenshot with
+            # no visible signal, carry a warning through so verify.py can
+            # force a low extraction_confidence and record it in
+            # verification_notes. Stage 2 verification would otherwise judge
+            # this row's fields against the wrong page image with nothing
+            # flagging that the page number itself was suspect.
+            row["extraction_warning"] = (
+                f"Gemini reported page {txn.page}, which is out of range for "
+                f"this {page_count}-page document. This row was paired with "
+                "page 1's screenshot as a fallback and should be treated as "
+                "low-confidence / manually reviewed."
+            )
+        rows.append(row)
 
     return rows

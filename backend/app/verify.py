@@ -122,12 +122,26 @@ def _verify_batch(rows: list[dict]) -> list[dict]:
     for row in rows:
         verified = by_id.get(row["row_id"])
         if verified is None:
-            output.append(_degraded_row(row))
-            continue
-        merged = verified.model_dump()
-        merged["source_pdf"] = row["source_pdf"]
-        merged["page"] = row["page"]
-        merged["screenshot_path"] = row["screenshot_path"]
+            merged = _degraded_row(row)
+        else:
+            merged = verified.model_dump()
+            merged["source_pdf"] = row["source_pdf"]
+            merged["page"] = row["page"]
+            merged["screenshot_path"] = row["screenshot_path"]
+
+        # extract.py flags rows whose page number was out of range and got
+        # silently paired with page 1's screenshot as a fallback. Force a
+        # low confidence and surface the warning instead of letting this
+        # row pass through looking like a normal, fully-verified row --
+        # Stage 2 verification just judged it against the wrong page image.
+        warning = row.get("extraction_warning")
+        if warning:
+            merged["extraction_confidence"] = 0.0
+            existing_notes = merged.get("verification_notes")
+            merged["verification_notes"] = (
+                f"{warning} | {existing_notes}" if existing_notes else warning
+            )
+
         output.append(merged)
     return output
 
