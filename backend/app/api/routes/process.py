@@ -34,12 +34,27 @@ async def process(
 
     pdf_paths: list[Path] = []
     filenames: list[str] = []
-    for f in files:
-        dest = pdf_dir / f.filename
+    for index, f in enumerate(files):
+        # Two fixes in one: (1) Path(...).name strips any directory
+        # components from the client-supplied filename, closing a
+        # path-traversal gap; (2) the numeric prefix guarantees a unique
+        # on-disk name even when multiple uploads share the same original
+        # filename (extremely common for bank statements -- e.g. every
+        # download named "statement.pdf"). Without this, the second
+        # upload's bytes silently overwrote the first's on disk before
+        # extraction ever ran, and extract_pdf would read the same
+        # (last-uploaded) content N times while the job still reported all
+        # N original names, with no error and no visible sign anything was
+        # wrong. The prefixed name is also what's shown back to the user
+        # (job.filenames, the workbook's "location" column, etc.) so
+        # same-named files stay distinguishable everywhere, not just on
+        # disk.
+        safe_name = Path(f.filename).name if f.filename else f"upload_{index}.pdf"
+        dest = pdf_dir / f"{index:03d}_{safe_name}"
         with dest.open("wb") as out:
             shutil.copyfileobj(f.file, out)
         pdf_paths.append(dest)
-        filenames.append(f.filename)
+        filenames.append(dest.name)
 
     job = create_job(filenames, tmp_dir)
     background_tasks.add_task(run_job, job.job_id, pdf_paths)
