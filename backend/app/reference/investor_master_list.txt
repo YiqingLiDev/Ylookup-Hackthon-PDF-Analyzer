@@ -1,0 +1,637 @@
+Legal Entity: AGP NI Co-Invest I SCSp | Investor: Roskcombe Global Diversified Infrastructure Equity Fund II SCSp | Vehicle: AGP NI Co-Invest I SCSp - LP Interest
+Legal Entity: AGP NI Co-Invest I SCSp | Investor: Roskcombe Clangarth Infrastrukturfonds GmbH | Vehicle: AGP NI Co-Invest I SCSp - LP Interest
+Legal Entity: AGP NI Co-Invest I SCSp | Investor: VEM Infrastrukturfonds GmbH | Vehicle: AGP NI Co-Invest I SCSp - LP Interest
+Legal Entity: AGP NI Co-Invest I SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: AGP NI Co-Invest I SCSp - GP Interest
+Legal Entity: DKP NI Co-Invest K/S | Investor: Yardvale Alderhurst | Vehicle: DKP NI Co-Invest K/S - LP Interest
+Legal Entity: Stanmore NI Co-Invest SCSp | Investor: Ferrdale Public Employees’ Retirement System | Vehicle: Stanmore NI Co-Invest SCSp - Class A
+Legal Entity: Stanmore NI Co-Invest SCSp | Investor: NIP Co-invest Blocker K/S | Vehicle: Stanmore NI Co-Invest SCSp - Class A
+Legal Entity: Stanmore NI Co-Invest SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: Stanmore NI Co-Invest SCSp - GP
+Legal Entity: Stanmore NI Co-Invest SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Stanmore NI Co-Invest SCSp - Class A
+Legal Entity: NI GCF I Direct Lending Non-US SCSp | Investor: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp | Vehicle: NI GCF I Direct Lending Non-US SCSp - Ordinary Shares
+Legal Entity: NI GCF I Direct Lending Non-US SCSp | Investor: Nordvik Infrastructure Green Credit Fund I SCSp | Vehicle: NI GCF I Direct Lending Non-US SCSp - Ordinary Shares
+Legal Entity: NI GCF I Direct Lending US SCSp | Investor: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp | Vehicle: NI GCF I Direct Lending US SCSp - Ordinary Shares
+Legal Entity: NI GCF I Direct Lending US SCSp | Investor: Nordvik Infrastructure Green Credit Fund I SCSp | Vehicle: NI GCF I Direct Lending US SCSp - Ordinary Shares
+Legal Entity: NI GCF I Velaris SCSp | Investor: NI GCF I Direct Lending Non - US SCSp | Vehicle: NI GCF I Velaris SCSp - Initial Limited Partner
+Legal Entity: NI GCF I Velaris SCSp | Investor: NI III GP II ApS | Vehicle: NI GCF I Velaris SCSp - Limited Partner
+Legal Entity: NI GCF I Velaris SCSp | Investor: Nordvik Infrastructure GCF I GP S.à r.l. | Vehicle: Nordvik Infrastructure GCF I Velaris SCSp - GP
+Legal Entity: NI GCF I Velaris SCSp | Investor: Fairley Drayford jerrshaw westdale | Vehicle: NI GCF I Velaris SCSp - Limited Partner
+Legal Entity: NI GCF I Velaris SCSp | Investor: Hollmere B II - R Blocker, L.P. | Vehicle: NI GCF I Velaris SCSp - Limited Partner
+Legal Entity: NI NKP Co-Invest I SCSp | Investor: NI III GP II ApS | Vehicle: NI NKP Co-Invest I SCSp
+Legal Entity: NI NKP Co-Invest I SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: NI NKP Co-Invest I SCSp - GP Interest
+Legal Entity: NI NKP Co-Invest I SCSp | Investor: Fairley Drayford jerrshaw westdale | Vehicle: NI NKP Co-Invest I SCSp
+Legal Entity: NI Regulated Energy Grids SCA SICAV-RAIF – Compartment A | Investor: Nordvik Infrastructure REG GP S.à r.l | Vehicle: NI Regulated Energy Grids SCA SICAV-RAIF - GP Interest
+Legal Entity: NI Regulated Energy Grids SCA SICAV-RAIF – Compartment A | Investor: Nordvik Infrastructure Regulated Energy Grids SCSp SICAV-RAIF | Vehicle: NI Regulated Energy Grids SCA SICAV-RAIF - LP Interest
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Selmere LUQ-Fonden (Selgarth National Pension Fund - LUQ2) | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Lanfield to Trentholm Fairhurst LP | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Lanfield to Trentholm Lammley LP | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Lanfield to Trentholm Grenford Thurworth LP | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Lanfield to Trentholm Roskworth Merrford | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Lanfield to Trentholm Roskworth Merrford LP | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Lanfield to Trentholm Nethbeck Merrford LP | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Lanfield to Trentholm Nethbeck Merrford LP (side car) | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Lanfield to Trentholm Wrenvale LP | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Lanfield to Trentholm Lanworth & Westcombe LP | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Lanfield to Trentholm Carrworth LP | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: NI NKP Co Invest I SCSp | Vehicle: NI V Co-Invest Vehicle A SCSp - Class A
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Nordvik Infrastructure SWIC Co-invest Vehicle I SCSp | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: DK NI Co-invest K/S | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: Fairley Drayford jerrshaw westdale | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: SCRF NI Co-invest SCSp | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: HIQ Pension, forsikringsaktieselskab | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: GAD Eddhurst Corp. | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V Co-Invest Vehicle A SCSp | Investor: JAK Alternative Investments S.A., SICAV-RAIF, sub-fund I | Vehicle: NI V Co-Invest Vehicle A SCSp
+Legal Entity: NI V GP I SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NI V GP I SCSp - Class A
+Legal Entity: NI V GP I SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NI V GP I SCSp - General Partner
+Legal Entity: NI V GP I SCSp | Investor: WID GP Investor AS | Vehicle: NI V GP I SCSp - Class A
+Legal Entity: NI V Sponsor Investor US LP | Investor: NI V Sponsor Investor K/S | Vehicle: NI V Sponsor Investor US LP - Denhurst LP
+Legal Entity: NI V Sponsor Investor US LP | Investor: NI V Sponsor Investor US K/S | Vehicle: NI V Sponsor Investor US LP - LP Contributor
+Legal Entity: NI V Sponsor Investor US LP | Investor: Nordvik Infrastructure V US GP A LLC | Vehicle: NI V Sponsor Investor US LP - General Partner
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I Feeder SCSp | Investor: Selmere LUQ-fonden (Second Selgarth National Pension Fund - LUQ2) | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I Feeder SCSp | Investor: Nordvik Infrastructure Advanced Bioenergy Fund I GP S.à r.l. | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I Feeder SCSp - GP
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I Feeder SCSp | Investor: Larchford LUQ-fonden | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I GP S.à r.l. | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I GP S.à r.l.
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: Roskcombe Retraite | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: CER-Ardvik 95 | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: VEM-Ardvik 84 | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: CIS-Ardvik 63 Vermögensverwaltungsgesellschaft mbH | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: CIS-Ardvik 83 | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: KUM Ardvik 87 | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: KUM-Ardvik 82 | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: Bundespensionskasse BRACKEN - QOF 11 | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: NI ABF I SP Invest K/S | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class C
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: NI ABF I Sponsor Investor K/S | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class B
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: NI ABF I Sponsor Investor K/S | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class C
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: NI ABF I Sponsor Investor US KS | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class B
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: NIP Affiliated Managers ApS | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: NIP Global Energy Transition Aggregator - I | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: NIP Global Energy Transition Aggregator - I | Vehicle: Sub-Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: NIP Global Energy Transition Feeder | Vehicle: Sub-Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: NIP Global Energy Transition Master – I | Vehicle: Sub-Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: Nordvik Infrastructure ABF I GP S.à r.l. | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - GP Interest
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: Nordvik Infrastructure Advanced Bioenergy Fund I Feeder SCSp | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: Nordvik Infrastructure Advanced Bioenergy Fund I GP S.à r.l. | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: Innley Verrholm A/S | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: Lindmere Pension - Pensionskassen for Innstead | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: Wickdale Pensionsforsikringsaktieselskab | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: Grenbury Bank Co. Ltd. | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: K&R Holding A/S | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp | Investor: Aeroven Wind Systems A/S | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund I SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund II QFPF SCSp | Investor: Nordvik Infrastructure ABF II GP S.à r.l. | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund II QFPF SCSp - GP Interest
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund II QFPF SCSp | Investor: Lindmere Pension - Pensionskassen for Innstead | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund II QFPF SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund II QFPF SCSp | Investor: Wickdale Pensionsforsikringsaktieselskab | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund II QFPF SCSp - Class A
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund II SCSp | Investor: Nordvik Infrastructure ABF II GP S.à r.l. | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund II SCSp - GP Interest
+Legal Entity: Nordvik Infrastructure Advanced Bioenergy Fund II SCSp | Investor: Ashdale Linddale- hollmont Wrenshaw | Vehicle: Nordvik Infrastructure Advanced Bioenergy Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Evergreen Credit Fund EUR SCSp | Investor: Ferrvale - Wickstead Pensionskasse | Vehicle: Nordvik Infrastructure Evergreen Credit Fund EUR SCSp
+Legal Entity: Nordvik Infrastructure Evergreen Credit Fund EUR SCSp | Investor: Nordvik Infrastructure GCF II GP S.à r.l. | Vehicle: Nordvik Infrastructure Evergreen Credit Fund EUR SCSp
+Legal Entity: Nordvik Infrastructure Evergreen Credit Fund EUR SCSp | Investor: Cantbury Pension – pensionskassen for innstead | Vehicle: Nordvik Infrastructure Evergreen Credit Fund EUR SCSp
+Legal Entity: Nordvik Infrastructure Evergreen Credit Fund EUR SCSp | Investor: Losley Pension forsikringsaktieselskab | Vehicle: Nordvik Infrastructure Evergreen Credit Fund EUR SCSp
+Legal Entity: Nordvik Infrastructure GCF I GP S.à r.l. | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure GCF I GP S.à r.l. - Initial Partner
+Legal Entity: Nordvik Infrastructure GMF II GP S.à r.l. | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure GMF II GP S.à r.l. - Founding Shareholder
+Legal Entity: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp | Investor: NI GCF I Sponsor Investor K/S | Vehicle: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp - Class B
+Legal Entity: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp | Investor: NI GCF I Sponsor Investor K/S | Vehicle: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp - Class C
+Legal Entity: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp | Investor: Nordvik Infrastructure GCF I GP S.à r.l. | Vehicle: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp - GP
+Legal Entity: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp - Initial Limited Partner
+Legal Entity: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp | Investor: Fairley Drayford jerrshaw westdale | Vehicle: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp - Class A Ordinary Shares
+Legal Entity: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp | Investor: Lindmere Pension - Pensionskassen for Innstead | Vehicle: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp - Class A Ordinary Shares
+Legal Entity: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp | Investor: P+, Pensionskassen for Tarnley | Vehicle: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp - Class A Ordinary Shares
+Legal Entity: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp | Investor: Losley Pension forsikringsaktieselskab | Vehicle: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp - Class A Ordinary Shares
+Legal Entity: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp | Investor: NEQ Alderstead Master S.A. SICAV-MAZ – Teilfonds ZIJ | Vehicle: Nordvik Infrastructure Green Credit Fund I Non-SRT AIV SCSp - Class A Ordinary Shares
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: NI GCF I SP Invest K/S | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - Class C
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: NI GCF I Sponsor Investor K/S | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - Class B
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: NI GCF I Sponsor Investor K/S | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - Class C
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: NI GCF I Sponsor Investor WC K/S | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - Class B
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: ROQ HoldCo Ltd. | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - Class C
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: NIP Global Energy Transition Aggregator - I | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - Class A Ordinary Shares
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: NIP Global Energy Transition Master – I | Vehicle: Sub-Class A
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: Nordvik Infrastructure GCF I GP S.à r.l. | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - GP
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - Initial Limited Partner
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: Tarnwick General Lease Co., Ltd. | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - Class A Ordinary Shares
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: Kelmbury Investment Pte. Ltd. | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - Class A Ordinary Shares
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: Chalthorpe Wickley Larchdale | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - Class A Ordinary Shares
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: YARDSHAW NIQ LTD. | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - Class A Ordinary Shares
+Legal Entity: Nordvik Infrastructure Green Credit Fund I SCSp | Investor: Aeroven Wind Systems A/S | Vehicle: Nordvik Infrastructure Green Credit Fund I SCSp - Class A Ordinary Shares
+Legal Entity: Nordvik Infrastructure Green Credit Fund II EUR SCSp | Investor: NI GCF II SP Invest K/S | Vehicle: Nordvik Infrastructure Green Credit Fund II SCSp - Class C
+Legal Entity: Nordvik Infrastructure Green Credit Fund II EUR SCSp | Investor: NI GCF II Sponsor Investor K/S | Vehicle: Nordvik Infrastructure Green Credit Fund II SCSp - Class B
+Legal Entity: Nordvik Infrastructure Green Credit Fund II EUR SCSp | Investor: NI GCF II Sponsor Investor K/S | Vehicle: Nordvik Infrastructure Green Credit Fund II SCSp - Class C
+Legal Entity: Nordvik Infrastructure Green Credit Fund II EUR SCSp | Investor: NIP Affiliated Managers ApS | Vehicle: Nordvik Infrastructure Green Credit Fund II SCSp - Class C
+Legal Entity: Nordvik Infrastructure Green Credit Fund II EUR SCSp | Investor: Nordvik Infrastructure Evergreen Credit Fund EUR SCSp | Vehicle: Nordvik Infrastructure Green Credit Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Green Credit Fund II EUR SCSp | Investor: Nordvik Infrastructure GCF II GP S.à r.l. | Vehicle: Nordvik Infrastructure Green Credit Fund II SCSp - GP Interest
+Legal Entity: Nordvik Infrastructure Green Credit Fund II EUR SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure Green Credit Fund II SCSp - LP Interest
+Legal Entity: Nordvik Infrastructure Green Credit Fund II EUR SCSp | Investor: Brackhurst Investment Pte. Ltd. | Vehicle: Nordvik Infrastructure Green Credit Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Green Credit Fund II EUR SCSp | Investor: Fairley Drayford jerrshaw westdale | Vehicle: Nordvik Infrastructure Green Credit Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Green Credit Fund II EUR SCSp | Investor: YARDSHAW NIQ LTD. | Vehicle: Nordvik Infrastructure Green Credit Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Green Credit Fund II USD Blocked SCSp | Investor: Nordvik Infrastructure GCF II GP S.à r.l. | Vehicle: Nordvik Infrastructure Green Credit Fund II USD Blocker Feeder SCSp - GP Interest
+Legal Entity: Nordvik Infrastructure Green Credit Fund II USD Blocked SCSp | Investor: GAD Chalshaw Corp. | Vehicle: Nordvik Infrastructure Green Credit Fund II USD Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Green Credit Fund II USD SCSp | Investor: Nordvik Infrastructure GCF II GP S.à r.l. | Vehicle: Nordvik Infrastructure Green Credit Fund II USD SCSp - GP Interest
+Legal Entity: Nordvik Infrastructure Green Credit Fund II USD SCSp | Investor: Nordvik Infrastructure Green Credit Fund II USD Blocker Feeder SCSp | Vehicle: Nordvik Infrastructure Green Credit Fund II USD SCSp - Class A
+Legal Entity: Nordvik Infrastructure Green Credit Fund II USD SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure Green Credit Fund II USD SCSp - LP Interest
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF | Investor: Nordvik Infrastructure GMF II GP S.à r.l. | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF - GP Interest
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF - LP Interest
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF – Access Compartment | Investor: Lammbury N.V. – Lammbury Impact Fund | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF – Access Compartment - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF – Access Compartment | Investor: Stroudthorpe Fund II RAIF-SICAV – Impact Thurford Fund | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF – Access Compartment - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF – Access Compartment | Investor: Stichting Stroudmere Dunbeck Elmhurst | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF – Access Compartment - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF – Access Compartment | Investor: Stichting Bedrijfstakpensioenfonds voor de Media CIF | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF – Access Compartment - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF – NKP Compartment | Investor: Fairley Drayford jerrshaw westdale | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF – NKP Compartment - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: Glanbury Transformation (Blocker) SPV Ltd | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: Selmere LUQ-fonden (Second Selgarth National Pension Fund - LUQ2) | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - Initial Limited Partner
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: Steencombe Vossshaw Foundation | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: Nordvik Infrastructure GMF II GP S.à r.l. | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - GP
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - Initial Limited Partner
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: Ferrgarth Tjänstepension AB | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: Green Wickfield (Foundation) Private Assets Offshore Class B (JEZ) LLC | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: Calder Investment Bank Holdings Limited | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: Renwick Ostcombe Pty Ltd ZAJ BOB 36 2025 Trust | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: Renwick Ostcombe Pty Ltd ZAJ BOB NOP 2025 Trust | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: Kirkvale pensionsstiftelse | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: KUN Tjänstepensionsförsäkring AB (grenberg) | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Investor: Samchully Nordvik Growth Market II Private Placement Special Assets Fund 1 (acting by its trustee, Grenbury Bank) | Vehicle: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Vossvale LLC | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Steencombe Asset Management Trentcombe, LP | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: NI GMF II SP Invest K/S | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class C
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: NI GMF II Sponsor Investor K/S | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class B
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: NI GMF II Sponsor Investor K/S | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class C
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: NIP Affiliated Managers ApS | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class C
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: NIP Global Energy Transition Aggregator - I | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Nordvik Infrastructure GMF II GP S.à r.l. | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - GP
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF – Access Compartment | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Nordvik Infrastructure Growth Markets Fund II Feeder SCA SICAV-RAIF – NKP Compartment | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Nordvik Infrastructure Growth Markets Fund II Feeder SCSp | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Ashdale Linddale- hollmont Wrenshaw | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Loscombe Yardford Steenbury BRACKEN | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: PUQ Skarsshaw SCS SICAV-RAIF | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: GOT-Havford Umbrella Fund S.A. SICAV-RAIF - GOT Fonds 5 Private Equity | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Kelmvale Development Bank | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Brinberg LLC | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Green Wickfield (REM) Private Assets MOZ Holding Class B (CUC) LLC | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Green Wickfield (Trust) Private Assets Class B (JEZ) LLC | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Bramwick Climate Capital II, LLC | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Ravwick Capital Renfield, LLC | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: ZIX SCSp | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Lindvale Alternative Investment Fund – Climate I | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Non-Landale Portfolio, L.P. | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Non-Landale Portfolio, L.P. | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Wickdale Pensionsforsikringsaktieselskab | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: KIS Private Equity S.A., SICAV-RAIF – Teilfonds Tarnbury | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: MED Skarsshaw SCS SICAV-RAIF | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure Growth Markets Fund II SCSp | Investor: Aeroven Wind Systems A/S | Vehicle: Nordvik Infrastructure Growth Markets Fund II SCSp - Class A
+Legal Entity: Nordvik Infrastructure SWIC Co-invest Vehicle I SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: Nordvik Infrastructure SWIC Co-invest Vehicle I SCSp - GP Interest
+Legal Entity: Nordvik Infrastructure SWIC Co-invest Vehicle I SCSp | Investor: State of Clanholm Dunford State Investment Council | Vehicle: Nordvik Infrastructure SWIC Co-invest Vehicle I SCSp - LP Interest
+Legal Entity: Nordvik Infrastructure REG GP S.à r.l. | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure REG GP S.à r.l.
+Legal Entity: Nordvik Infrastructure REG GP S.à r.l. | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure REG GP S.à r.l. - General Partner
+Legal Entity: Nordvik Infrastructure Regulated Energy Grids SCSp SICAV-RAIF - Compartment A | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure Regulated Energy Grids SCSp SICAV-RAIF - LP interest
+Legal Entity: Nordvik Infrastructure Regulated Energy Grids SCSp SICAV-RAIF - Compartment A | Investor: Nordvik Infrastructure REG GP S.à r.l | Vehicle: Nordvik Infrastructure Regulated Energy Grids SCSp SICAV-RAIF - GP interest
+Legal Entity: Nordvik Infrastructure Regulated Energy Grids SCSp SICAV-RAIF - Compartment A | Investor: Nordvik Infrastructure REG GP S.à r.l | Vehicle: Nordvik Infrastructure Regulated Energy Grids SCSp SICAV-RAIF - LP interest
+Legal Entity: Nordvik Infrastructure V CN SCSp | Investor: NI V Sponsor Investor K/S | Vehicle: Nordvik Infrastructure V CN SCSp - Class B
+Legal Entity: Nordvik Infrastructure V CN SCSp | Investor: NI V Sponsor Investor PD K/S | Vehicle: Nordvik Infrastructure V CN SCSp - Class B
+Legal Entity: Nordvik Infrastructure V CN SCSp | Investor: NI V Sponsor Investor US LP | Vehicle: Nordvik Infrastructure V CN SCSp - Class B
+Legal Entity: Nordvik Infrastructure V CN SCSp | Investor: Nordvik Infrastructure Partners Inc. | Vehicle: Nordvik Infrastructure V CN SCSp - Ordinary Share
+Legal Entity: Nordvik Infrastructure V CN SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: Nordvik Infrastructure V CN SCSp - Ordinary Share
+Legal Entity: Nordvik Infrastructure V CN SCSp | Investor: Ferrbury Investment Corporation | Vehicle: Nordvik Infrastructure V CN SCSp - Ordinary Share
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Selmere LUQ-Fonden (LUQ2) | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Selmere LUQ-fonden (Second Selgarth National Pension Fund - LUQ2) | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: DOJ Infrastructure 2023 | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: THURBURY ASSURANCE VIE | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: THURBURY RETRAITE | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: NIP V EUR Blocker Feeder - Initial Partner
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NIP V EUR Blocker Feeder General Partner
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Havnvik Invest AIF-QUARTHORPE - Institutional Fund Administration 1 | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Havnvik Invest SICAV-SIF - Alternatives - Global Denhurst | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Wrenley Investment Pte. Ltd. | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Larchford LUQ-fonden | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Ferrgarth ömsesidig livförsäkring | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Ferrgarth ömsesidig sakförsäkring | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Ferrgarth Tjänstepension AB | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: HEB-Infrastruktur-Clanthorpe Manager-Fonds III S.C.S., SICAV-RAIF | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Bramstead Investment Pte. Ltd | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Norfield Kapitalanlagegesellschaft mbh acting for the account of Marhurst | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Kirkvale pensionsstiftelse | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: KUN Tjänstepensionsförsäkring AB (grenberg) | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: LAF Central Value Bramford/Opportunistic Infrastructure Partnership LP | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Gelcombe LAF MET Ltd in its capacity as alternative investment fund manager of NAN Renewable Infrastructure Fund being an exempt unauthorised unit trust scheme | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Tarnvik National Retirement Service | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: National Treasury Management Agency (as aldercombe and manager of the Davmont Marbeck Investment Fund) | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Nethstead Liabilities Fund Limited | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Grenbury NI V Investment Trust. No.1(EUR), acting by its trustee, NongHyup Bank | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Grenbury NI V Investment Trust. No.2(KRW), acting by its trustee, NongHyup Bank | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Hollmere B Infrastructure Eddfield Fund III, LP | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Hollmere HIJ Infrastructure Eddfield Limited | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Stichting Pensioenfonds Denberg Renmont | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: The Fairwick-zellbeck NIQ Insurance Company, Limited | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Investor: Lanmont-Investment-Yardthorpe S.A. acting in its own name and for the account of INFRASTRUKTUR-VEJ-Fonds FCP-FIS | Vehicle: Nordvik Infrastructure V EUR Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - AIV compartment | Investor: PAJ Funds GmbH & Co. KG | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - B compartment
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - AIV compartment | Investor: Larchthorpe Holding GmbH | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - B compartment
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - AIV compartment | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Compartment B -  Limited Partner
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - AIV compartment | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Compartment B - General Partner
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - AIV compartment | Investor: Lanmont-Investment-Quarstead mbH acting in its own name for the account of PENBECK Private Markets Fonds - 575B01 Infrastruktur Equity | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - AIV compartment - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: PAJ Funds GmbH & Co. KG | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - B compartment
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: PAJ Funds GmbH & Co. KG | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Larchthorpe Holding GmbH | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - B compartment
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Larchthorpe Holding GmbH | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Lanfield to Trentholm Fairhurst LP | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Lanfield to Trentholm Lammley LP | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Lanfield to Trentholm Grenford Thurworth LP | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Lanfield to Trentholm Roskworth Merrford LP | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Lanfield to Trentholm Nethbeck Merrford LP | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Lanfield to Trentholm Nethbeck Merrford LP (side car) | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Lanfield to Trentholm Wrenvale LP | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Lanfield to Trentholm Lanworth & Westcombe LP | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Lanfield to Trentholm Carrworth LP | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NI V Feeder SCA SICAV-RAIF - General Partner
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Fairley Drayford jerrshaw westdale | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Class A
+Legal Entity: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Investor: Lanmont-Investment-Quarstead mbH acting in its own name for the account of PENBECK Private Markets Fonds - 575B01 Infrastruktur Equity | Vehicle: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - Ordinary Share
+Legal Entity: Nordvik Infrastructure V NO SCSp | Investor: NI V GP I SCSp | Vehicle: Nordvik Infrastructure V NO SCSp - Class A
+Legal Entity: Nordvik Infrastructure V NO SCSp | Investor: NI V Sponsor Investor K/S | Vehicle: Nordvik Infrastructure V NO SCSp - Class B
+Legal Entity: Nordvik Infrastructure V NO SCSp | Investor: NI V Sponsor Investor PD K/S | Vehicle: Nordvik Infrastructure V NO SCSp - Class B
+Legal Entity: Nordvik Infrastructure V NO SCSp | Investor: NI V Sponsor Investor US K/S | Vehicle: Nordvik Infrastructure V NO SCSp - Class B
+Legal Entity: Nordvik Infrastructure V NO SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: Nordvik Infrastructure V NO SCSp - Class B
+Legal Entity: Nordvik Infrastructure V NO SCSp | Investor: WID Draymere Funds AS | Vehicle: Nordvik Infrastructure V NO SCSp - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Haslwold FAR & Thurberg [Vossmont FAR 21HUT0] | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Haslwold Vie [Vossmont DOK 01WEG0] | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Dunbury Eastbury N.V. | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Ferrvale - Wickstead Pensionskasse | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Roskcombe Finance II Yardthorpe S.à r.l. | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Roskcombe Global Diversified Infrastructure Equity Fund II SCSp | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Roskcombe Global Real Assets and Private Markets Fund S.A. SICAV-RAIF - Roskcombe Global Infrastructure | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Roskcombe Clangarth Infrastrukturfonds GmbH | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Roskcombe Private Markets SCSp SICAV-RAIF-Fennbury I | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Larchberg Insurance Company | Vehicle: NIP V EUR - Larchberg Insurance (Climate)
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Larchberg Insurance Company | Vehicle: NIP V EUR - Larchberg Insurance(Infrastructure)
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Larchberg Insurance Company | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Rendale-POV Fund SCS, SICAV-MAZ - Infrastruktur I | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: LUQ Pension livsforsikringsaktieselskab | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: VEM Infrastrukturfonds GmbH | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: ApS Glanworth | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: ApS HET | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: ApS ZOF | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 11 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 12 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 2 / MOF 201 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 2 / MOF 202 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 22 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 35 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 36 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 37 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 39 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 5 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 7 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 9 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Vorsorgekasse BRACKEN, MOF 1 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: DUNDALE Vorsorgekasse BRACKEN, MOF 2 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Brinshaw. Haldcombe Harrdale Davhurst | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NI V SP Invest K/S | Vehicle: NIP V EUR - Class C
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NI V Sponsor Investor F&F K/S | Vehicle: NIP V EUR - Class C
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NI V Sponsor Investor II K/S | Vehicle: NIP V EUR - Class C
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NI V Sponsor Investor K/S | Vehicle: NIP V EUR - Class B
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NI V Sponsor Investor K/S | Vehicle: NIP V EUR - Class C
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NI V Sponsor Investor PD K/S | Vehicle: NIP V EUR - Class B
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NI V Sponsor Investor US K/S | Vehicle: NIP V EUR - Class B
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NI V Sponsor Investor US LP | Vehicle: NIP V EUR - Class B
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NIP Affiliated Managers ApS | Vehicle: NIP V EUR - Class C
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NIP Global Energy Transition Aggregator - I | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NIP Holding 8 ApS | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Gelbeck Investment Fund | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Umbcombe Nethstead Pension Geldale | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: COMPTROLLER OF THE STATE OF CLANHOLM DEZ, AS TRUSTEE OF THE COMMON RETIREMENT FUND | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: NIP V EUR - Initial Partner
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Nordvik Infrastructure V EUR Blocker Feeder SCSp | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NIP V EUR General Partner
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Nordvik Infrastructure V USD Blocker Feeder SCSp | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Nordvik Infrastructure V USD Feeder K/S | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Nordvik Infrastructure V USD Feeder SCSp | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Ashwold International S.A. acting on behalf of Ashwold Infrastruktur Tarnmere FCP-FIS - Teilfonds 1 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: XAC SCSp | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: ZAL Infrastructure I AS | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: BEV Private Capital Haslstead GmbH | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: RENVALE SICAV-RAIF - JIB Infrastruktur Teilfonds | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: RENVALE SICAV-RAIF - BAG Infrastruktur Teilfonds | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: VANCOMBE Holding ApS | Vehicle: NIP V EUR - Class C
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Kelmvale Infra Fonds SCSp SICAV-RAIF | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: KAV Stanbury SCSp SICAV-RAIF | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Umbbeck Invest Kapitalanlagegesellschaft mbH acting for the account of the fund HEB-XUJ-Fonds (grenworth HEB-XUJ 5-Selstead) | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: KELMGARTH 2023 GmbH | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Infrastructure Access Portfolio-L 5 SCSp SICAV-RAIF - Teilfonds Impact | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Nethgarth ApS | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Brinbury Lindford GmbH | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Haslley Tjänstepensionsförening | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Kelmley Covwold Wickvale Garrthorpe Nethvale fund | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Garrdale Ormberg Quarworth Garrhurst Central Pension Fund Ltd. (Under Special Management) | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Garrdale Yardwick Pension and Provident Center Cooperative Society Ltd. (Under Special Management) | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Havcombe Bank Co., Ltd. | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: MOS Private Markets 13 SICAV-RAIF S.C.A. | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: ZIX SCSp | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Lindmere Pension - Pensionskassen for Innstead | Vehicle: NIP V EUR - Class C
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Cantbury Pension – pensionskassen for innstead | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Brinwick Pension Forsikringsaktieselskab | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: WUW Tarnmont A/S | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: HUV Holding A/S | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Clanwick Private Equity ApS | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: FUN A/S | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Gelcombe Borough Of Wrenthorpe Pension Fund | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: RON-Fonds S.A., SICAV-FIS - RON-Alternatives 2 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Dunwick – The Workers Social Insurance Fund Ltd. (Under Special Management) | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Dunwick - The Workers Social Insurance Fund Ltd. (Under Special Management) on behalf of Chalbury and Wickvale Provident Fund 526 | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: MOR Holding ApS | Vehicle: NIP V EUR - Class C
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Redhurst Board of Investments | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: KEG Bank, Ltd. | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Mutuelle Quarbeck (Chalthorpe Bramberg) | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: TAD Private Markets GmbH | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: RIF Global Diversified V K/S | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: RIF Infrastructure Feeder Fund V SCSp | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: JOJ Private Markets GmbH | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Wickmere Alternative Markets SCS SICAV-FIS – Wickmere Alternative Markets VIII | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Wickdale Pensionsforsikringsaktieselskab | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: HIQ Pension, forsikringsaktieselskab | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: MOQ Infra S.C.S., SICAV-RAIF - MOQ Infrastruktur I | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Zellvale II GmbH | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: YARDSHAW NIQ LTD. | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Thurley | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Lammcombe ApS | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Stichting Algemeen Pensioenfonds TOC | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Hollvale Carrford Renewables ApS | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Garrmere Fennfield Trust Bank Limited | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: GOW-Lammmere SCS SICAV-RAIF-HUL 1- GOW-Lammmere I | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Ostwold Bank BRACKEN | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: The Lammdale Development Bank | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Loswick Steenwold & Caldcombe Kirkhurst Insurance Co., Ltd. | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: BAQ Private Markets GmbH | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NEX NI V ApS | Vehicle: NIP V EUR - Class C
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: NEX Invest ApS | Vehicle: NIP V EUR - Class C
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: KELMSTEAD Capital Partners S.A., SICAV-RAIF - Infrastructure Equity Stanthorpe | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Eddcombe Pension Scheme Trustee Limited acting as Trustee of Eddcombe Pension Scheme | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: University of Losthorpe Dunhurst Covdale and NIQ Assurance Scheme | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Wickmere State Retirement Investment Fund | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: JAK Alternative Investments S.A., SICAV-RAIF, sub-fund I | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: LEN-Havford Global SCA SICAV-SIF - Private Infrastructure | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Aeroven Wind Systems A/S | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: VUW Holding A/S | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Carrbeck Invest ApS | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: XON Alternative Investment Fund I | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: VEX Alternative Investment Fund I | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: Ormley Versicherungs-AG | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V SCSp | Investor: VUB Alternative Investment Fund I | Vehicle: NIP V EUR - Class A
+Legal Entity: Nordvik Infrastructure V US A USD SCSp | Investor: Larchberg Insurance Company | Vehicle: CIV US A USD SCSp - Larchberg Insurance (Infrastructure)
+Legal Entity: Nordvik Infrastructure V US A USD SCSp | Investor: Larchberg Insurance Company | Vehicle: Nordvik Infrastructure V US A USD SCSp - Class A (Climate)
+Legal Entity: Nordvik Infrastructure V US A USD SCSp | Investor: NI V Sponsor Investor US K/S | Vehicle: NIP V US A USD - Initial Partner
+Legal Entity: Nordvik Infrastructure V US A USD SCSp | Investor: NI V Sponsor Investor US K/S | Vehicle: Nordvik Infrastructure V US A USD SCSp - Class B
+Legal Entity: Nordvik Infrastructure V US A USD SCSp | Investor: NI V US Sponsor Investor Inc. | Vehicle: Nordvik Infrastructure V US A USD SCSp - Class B
+Legal Entity: Nordvik Infrastructure V US A USD SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NIP V US A USD - General Partner
+Legal Entity: Nordvik Infrastructure V US A USD SCSp | Investor: Nordvik Infrastructure V US QFPF EUR SCSp | Vehicle: Nordvik Infrastructure V US A USD SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: Ferrdale Public Employees’ Retirement System | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: NI V PD Sponsor Investor K/S | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class B
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: NI V Sponsor Investor K/S | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class B
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: NI V Sponsor Investor US K/S | Vehicle: NIP V US B USD - Initial Partner
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: NI V Sponsor Investor US K/S | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class B
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: Gelbeck Investment Fund | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: COMPTROLLER OF THE STATE OF CLANHOLM DEZ, AS TRUSTEE OF THE COMMON RETIREMENT FUND | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NIP V US B USD General Partner
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: Redhurst Board of Investments | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: Non-Landale Portfolio, L.P. | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: Non-Landale Portfolio, L.P. | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: State of Clanholm Dunford State Investment Council | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: The Innbury Pension Fund | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: Wickmere State Retirement Investment Fund | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US B USD SCSp | Investor: Vanworth Pension Investment Commission | Vehicle: Nordvik Infrastructure V US B USD SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR Blocker SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: NIP V US Non-QFPF EUR Blocker - Initial Partner
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR Blocker SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NIP V US Non-QFPF EUR Blocker General Partner
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR Blocker SCSp | Investor: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Vehicle: NIP V US Non-QFPF EUR Blocker - Initial Partner
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Haslwold FAR & Thurberg [Vossmont FAR 21HUT0] | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Haslwold Vie [Vossmont DOK 01WEG0] | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Roskcombe Finance II Yardthorpe S.à r.l. | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Roskcombe Global Diversified Infrastructure Equity Fund II SCSp | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Roskcombe Global Real Assets and Private Markets Fund S.A. SICAV-RAIF - Roskcombe Global Infrastructure | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Roskcombe Clangarth Infrastrukturfonds GmbH | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Roskcombe Private Markets SCSp SICAV-RAIF-Fennbury I | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Rendale-POV Fund SCS, SICAV-MAZ - Infrastruktur I | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: VEM Infrastrukturfonds GmbH | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: ApS Glanworth | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: ApS HET | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: ApS ZOF | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: DOJ Infrastructure 2023 | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: THURBURY ASSURANCE VIE | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: THURBURY RETRAITE | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Brinshaw. Haldcombe Harrdale Davhurst | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: NI V SP Invest K/S | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class C
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: NI V Sponsor Investor F&F K/S | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class C
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: NI V Sponsor Investor II K/S | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class C
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: NI V Sponsor Investor US K/S | Vehicle: NIP V US Non-QFPF EUR - Initial Partner
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: NIP Affiliated Managers ApS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class C
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: NIP Global Energy Transition Aggregator - I | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: NIP Holding 8 ApS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: NIP V US Non-QFPF EUR - Initial Partner
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - AIV Compartment | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Nordvik Infrastructure V Feeder SCA SICAV-RAIF - EUR Compartment | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NIP V US Non-QFPF EUR General Partner
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Havnvik Invest AIF-QUARTHORPE - Institutional Fund Administration 1 | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Havnvik Invest SICAV-SIF - Alternatives - Global Denhurst | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class C
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Ashwold International S.A. acting on behalf of Ashwold Infrastruktur Tarnmere FCP-FIS - Teilfonds 1 | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: XAC SCSp | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: ZAL Infrastructure I AS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: BEV Private Capital Haslstead GmbH | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: RENVALE SICAV-RAIF - JIB Infrastruktur Teilfonds | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: RENVALE SICAV-RAIF - BAG Infrastruktur Teilfonds | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: VANCOMBE Holding ApS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class C
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Ferrgarth ömsesidig livförsäkring | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Ferrgarth ömsesidig sakförsäkring | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Ferrgarth Tjänstepension AB | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Kelmvale Infra Fonds SCSp SICAV-RAIF | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: KAV Stanbury SCSp SICAV-RAIF | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Umbbeck Invest Kapitalanlagegesellschaft mbH acting for the account of the fund HEB-XUJ-Fonds (grenworth HEB-XUJ 5-Selstead) | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: KELMGARTH 2023 GmbH | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: HEB-Infrastruktur-Clanthorpe Manager-Fonds III S.C.S., SICAV-RAIF | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Infrastructure Access Portfolio-L 5 SCSp SICAV-RAIF - Teilfonds Impact | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Norfield Kapitalanlagegesellschaft mbh acting for the account of Marhurst | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Nethgarth ApS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Brinbury Lindford GmbH | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Kelmley Covwold Wickvale Garrthorpe Nethvale fund | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Fairley Drayford jerrshaw westdale | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Kirkvale pensionsstiftelse | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Havcombe Bank Co., Ltd. | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Lammdale Investment Corporation, solely in its capacity as agent for the Ministry of Alderdale and Finance of the Republic of Lammdale | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Korea
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: KUN Tjänstepensionsförsäkring AB (grenberg) | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: ZIX SCSp | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: WUW Tarnmont A/S | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: HUV Holding A/S | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Clanwick Private Equity ApS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: FUN A/S | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Dunwick – The Workers Social Insurance Fund Ltd. (Under Special Management) | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Dunwick - The Workers Social Insurance Fund Ltd. (Under Special Management) on behalf of Chalbury and Wickvale Provident Fund 526 | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: MOR Holding ApS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class C
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: KEG Bank, Ltd. | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: TAD Private Markets GmbH | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: RIF Global Diversified V K/S | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: RIF Infrastructure Feeder Fund V SCSp | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Nethstead Liabilities Fund Limited | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: JOJ Private Markets GmbH | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: MOQ Infra S.C.S., SICAV-RAIF - MOQ Infrastruktur I | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Zellvale II GmbH | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Grenbury NI V Investment Trust. No.1(EUR), acting by its trustee, NongHyup Bank | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Grenbury NI V Investment Trust. No.2(KRW), acting by its trustee, NongHyup Bank | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: YARDSHAW NIQ LTD. | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Thurley | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Lammcombe ApS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Hollmere HIJ Infrastructure Eddfield Limited | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Hollvale Carrford Renewables ApS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Garrmere Fennfield Trust Bank Limited | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: GOW-Lammmere SCS SICAV-RAIF-HUL 1- GOW-Lammmere I | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Ostwold Bank BRACKEN | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: The Fairwick-zellbeck NIQ Insurance Company, Limited | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: The Lammdale Development Bank | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Loswick Steenwold & Caldcombe Kirkhurst Insurance Co., Ltd. | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: BAQ Private Markets GmbH | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: NEX NI V ApS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class C
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: NEX Invest ApS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class C
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: KELMSTEAD Capital Partners S.A., SICAV-RAIF - Infrastructure Equity Stanthorpe | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Lanmont-Investment-Quarstead mbH acting in its own name for the account of PENBECK Private Markets Fonds - 575B01 Infrastruktur Equity | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Ordinary Share
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Lanmont-Investment-Yardthorpe S.A. acting in its own name and for the account of INFRASTRUKTUR-VEJ-Fonds FCP-FIS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: LEN-Havford Global SCA SICAV-SIF - Private Infrastructure | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Aeroven Wind Systems A/S | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: VUW Holding A/S | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Carrbeck Invest ApS | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF EUR SCSp | Investor: Ormley Versicherungs-AG | Vehicle: Nordvik Infrastructure V US Non-QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US Non-QFPF USD Feeder SCSp | Investor: NI V Sponsor Investor US K/S | Vehicle: NIP V US Non-QFPF USD Feeder - Initial Partner
+Legal Entity: Nordvik Infrastructure V US Non-QFPF USD Feeder SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: NIP V US Non-QFPF USD Feeder - Initial Partner
+Legal Entity: Nordvik Infrastructure V US Non-QFPF USD Feeder SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NIP V US Non-QFPF USD Feeder General Partner
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Dunbury Eastbury N.V. | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Ferrvale - Wickstead Pensionskasse | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Larchberg Insurance Company | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Larchberg Insurance (Infrastructure)
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Larchberg Insurance Company | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A (Climate)
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Selmere LUQ-fonden (Second Selgarth National Pension Fund - LUQ2) | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: LUQ Pension livsforsikringsaktieselskab | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 11 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 12 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 2 / MOF 201 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 2 / MOF 202 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 22 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 35 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 36 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 37 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 39 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 5 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 7 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Pensionskassen Aktiengesellschaft, QOF 9 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Vorsorgekasse BRACKEN, MOF 1 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: DUNDALE Vorsorgekasse BRACKEN, MOF 2 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Lanfield to Trentholm Fairhurst LP | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Ordinary shares
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Lanfield to Trentholm Lammley LP | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Ordinary shares
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Lanfield to Trentholm Grenford Thurworth LP | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Ordinary shares
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Lanfield to Trentholm Roskworth Merrford LP | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Ordinary shares
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Lanfield to Trentholm Nethbeck Merrford LP | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Ordinary shares
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Lanfield to Trentholm Nethbeck Merrford LP (side car) | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Ordinary shares
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Lanfield to Trentholm Wrenvale LP | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Ordinary shares
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Lanfield to Trentholm Lanworth & Westcombe LP | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Ordinary shares
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Lanfield to Trentholm Carrworth LP | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Ordinary shares
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: NI V Sponsor Investor K/S | Vehicle: NORDVIK INFRASTRUCTURE V US QFPF EUR SCSp - Class B
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: NI V Sponsor Investor PD K/S | Vehicle: NORDVIK INFRASTRUCTURE V US QFPF EUR SCSp - Class B
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: NI V Sponsor Investor US K/S | Vehicle: NIP V US QFPF EUR - Initial Partner
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: NI V Sponsor Investor US K/S | Vehicle: NORDVIK INFRASTRUCTURE V US QFPF EUR SCSp - Class B
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Umbcombe Nethstead Pension Geldale | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NIP V US QFPF EUR General Partner
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Nordvik Infrastructure V USD Feeder K/S | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Wrenley Investment Pte. Ltd. | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Larchford LUQ-fonden | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Ferrbury Investment Corporation | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Ordinary shares
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Bramstead Investment Pte. Ltd | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Haslley Tjänstepensionsförening | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Garrdale Ormberg Quarworth Garrhurst Central Pension Fund Ltd. (Under Special Management) | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Garrdale Yardwick Pension and Provident Center Cooperative Society Ltd. (Under Special Management) | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: MOS Private Markets 13 SICAV-RAIF S.C.A. | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Cantbury Pension – pensionskassen for innstead | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Brinwick Pension Forsikringsaktieselskab | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: LAF Central Value Bramford/Opportunistic Infrastructure Partnership LP | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Gelcombe Borough Of Wrenthorpe Pension Fund | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Gelcombe LAF MET Ltd in its capacity as alternative investment fund manager of NAN Renewable Infrastructure Fund being an exempt unauthorised unit trust scheme | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: RON-Fonds S.A., SICAV-FIS - RON-Alternatives 2 | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Dunwick – The Workers Social Insurance Fund Ltd. (Under Special Management) | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Mutuelle Quarbeck (Chalthorpe Bramberg) | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Tarnvik National Retirement Service | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: National Treasury Management Agency (as aldercombe and manager of the Davmont Marbeck Investment Fund) | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: WID GP Investor AS | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: WID Draymere Funds AS | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Wickmere Alternative Markets SCS SICAV-FIS – Wickmere Alternative Markets VIII | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Wickdale Pensionsforsikringsaktieselskab | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: HIQ Pension, forsikringsaktieselskab | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Hollmere B Infrastructure Eddfield Fund III, LP | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Stichting Algemeen Pensioenfonds TOC | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Stichting Pensioenfonds Denberg Renmont | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Eddcombe Pension Scheme Trustee Limited acting as Trustee of Eddcombe Pension Scheme | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: University of Losthorpe Dunhurst Covdale and NIQ Assurance Scheme | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: GAD LUF Corp. | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: JAK Alternative Investments S.A., SICAV-RAIF, sub-fund I | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: Losmere Asset Management Limited | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: XON Alternative Investment Fund I | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: VEX Alternative Investment Fund I | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF EUR SCSp | Investor: VUB Alternative Investment Fund I | Vehicle: Nordvik Infrastructure V US QFPF EUR SCSp - Class A
+Legal Entity: Nordvik Infrastructure V US QFPF USD Feeder SCSp | Investor: NI V Sponsor Investor US K/S | Vehicle: NIP V US QFPF USD Feeder - Initial Partner
+Legal Entity: Nordvik Infrastructure V US QFPF USD Feeder SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: NIP V US QFPF USD Feeder - Initial Partner
+Legal Entity: Nordvik Infrastructure V US QFPF USD Feeder SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NIP V US QFPF USD Feeder General Partner
+Legal Entity: Nordvik Infrastructure V USD Blocker Feeder SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: NIP V USD Blocker Feeder - Initial Partner
+Legal Entity: Nordvik Infrastructure V USD Blocker Feeder SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NIP V USD Blocker Feeder General Partner
+Legal Entity: Nordvik Infrastructure V USD Blocker Feeder SCSp | Investor: Lammdale Investment Corporation, solely in its capacity as agent for the Ministry of Alderdale and Finance of the Republic of Lammdale | Vehicle: Nordvik Infrastructure V USD Blocker Feeder SCSp - Korea
+Legal Entity: Nordvik Infrastructure V USD Blocker Feeder SCSp | Investor: Non-Landale Portfolio, L.P. | Vehicle: Nordvik Infrastructure V USD Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V USD Blocker Feeder SCSp | Investor: Non-Landale Portfolio, L.P. | Vehicle: Nordvik Infrastructure V USD Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V USD Blocker Feeder SCSp | Investor: The Innbury Pension Fund | Vehicle: Nordvik Infrastructure V USD Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V USD Blocker Feeder SCSp | Investor: GAD LUF Corp. | Vehicle: Nordvik Infrastructure V USD Blocker Feeder SCSp - Class A
+Legal Entity: Nordvik Infrastructure V USD Feeder K/S | Investor: Nordvik Infrastructure V GP ApS | Vehicle: Nordvik Infrastructure V USD Feeder K/S - General Partner
+Legal Entity: Nordvik Infrastructure V USD Feeder K/S | Investor: Losmere Asset Management Limited | Vehicle: Nordvik Infrastructure V USD Feeder K/S - Class A
+Legal Entity: Nordvik Infrastructure V USD Feeder SCSp | Investor: Ferrdale Public Employees’ Retirement System | Vehicle: NIP V USD - Class A
+Legal Entity: Nordvik Infrastructure V USD Feeder SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: NIP V USD - Initial Partner
+Legal Entity: Nordvik Infrastructure V USD Feeder SCSp | Investor: Nordvik Infrastructure V GP S.à r.l. | Vehicle: NIP V USD - General Partner
+Legal Entity: Nordvik Infrastructure V USD Feeder SCSp | Investor: State of Clanholm Dunford State Investment Council | Vehicle: NIP V USD - Class A
+Legal Entity: Nordvik Infrastructure V USD Feeder SCSp | Investor: Vanworth Pension Investment Commission | Vehicle: NIP V USD - Class A
+Legal Entity: DK NI Co-Invest K/S | Investor: Ferrvale - Wickstead Pensionskasse | Vehicle: DK NI Co-Invest K/S - LP interest
+Legal Entity: DK NI Co-Invest K/S | Investor: LUQ Pension livsforsikringsaktieselskab | Vehicle: DK NI Co-Invest K/S - LP interest
+Legal Entity: DK NI Co-Invest K/S | Investor: Cantbury Pension – pensionskassen for innstead | Vehicle: DK NI Co-Invest K/S - LP interest
+Legal Entity: DK NI Co-Invest K/S | Investor: Brinwick Pension Forsikringsaktieselskab | Vehicle: DK NI Co-Invest K/S - LP interest
+Legal Entity: Delling NI Co-Invest SCSp | Investor: NIP Global Energy Transition Aggregator - I | Vehicle: Delling NI Co-Invest SCSp
+Legal Entity: Delling NI Co-Invest SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: Delling NI Co-Invest SCSp - GP Interest
+Legal Entity: Delling NI Co-Invest SCSp | Investor: ROSKTHORPE Holdings LLC | Vehicle: Delling NI Co-Invest SCSp
+Legal Entity: Delling NI Co-Invest SCSp | Investor: Haldgarth Ravworth Funding Ltd. | Vehicle: Delling NI Co-Invest SCSp
+Legal Entity: Freyr NI Co-invest LP | Investor: NIP Affiliated Managers ApS | Vehicle: NIP Affiliated Managers ApS - LP Interest
+Legal Entity: Freyr NI Co-invest LP | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: NIP V Co-Invest GP S.a.r.l
+Legal Entity: Freyr NI Co-invest LP | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: NIP GP Interests Holdings K/S
+Legal Entity: Freyr NI Co-invest LP | Investor: Wrenley Investment Pte. Ltd. | Vehicle: Freyr NI Co-invest LP
+Legal Entity: Magni NI Co-Invest SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: Magni NI Co-Invest SCSp - GP Interest
+Legal Entity: Magni NI Co-Invest SCSp | Investor: Kelmvale Development Bank | Vehicle: Magni NI Co-Invest SCSp - LP Interest
+Legal Entity: FS NI Co-Invest SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: FS NI Co-Invest SCSp - GP Interest
+Legal Entity: FS NI Co-Invest SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: FS NI Co-Invest SCSp - LP Interest
+Legal Entity: FS NI Co-Invest SCSp | Investor: Ferrgarth ömsesidig livförsäkring | Vehicle: FS NI Co-Invest SCSp - LP Interest
+Legal Entity: FS NI Co-Invest SCSp | Investor: Ferrgarth ömsesidig sakförsäkring | Vehicle: FS NI Co-Invest SCSp - LP Interest
+Legal Entity: FS NI Co-Invest SCSp | Investor: Ferrgarth Tjänstepension AB | Vehicle: FS NI Co-Invest SCSp - LP Interest
+Legal Entity: FS NI Co-Invest SCSp | Investor: Kirkvale pensionsstiftelse | Vehicle: FS NI Co-Invest SCSp - LP Interest
+Legal Entity: FS NI Co-Invest SCSp | Investor: KUN Tjänstepensionsförsäkring AB (grenberg) | Vehicle: FS NI Co-Invest SCSp - LP Interest
+Legal Entity: Pleione NI Co-Invest SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: Pleione NI Co-Invest SCSp - GP Interest
+Legal Entity: Pleione NI Co-Invest SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Pleione NI Co-Invest SCSp - LP Interest
+Legal Entity: Pleione NI Co-Invest SCSp | Investor: Brackhurst Investment Pte. Ltd. | Vehicle: Pleione NI Co-Invest SCSp - LP Interest
+Legal Entity: IP NI Co-invest K/S | Investor: Nordvik Infrastructure V GP ApS | Vehicle: IP NI Co-Invest K/S - GP Interest
+Legal Entity: IP NI Co-invest K/S | Investor: Innley Verrholm A/S | Vehicle: IP NI Co-invest K/S - LP Interest
+Legal Entity: Alcor NI Co-Invest SCSp | Investor: Glanshaw Ormbury Management Consulting Corporation | Vehicle: Alcor NI Co-Invest SCSp - Class A
+Legal Entity: Alcor NI Co-Invest SCSp | Investor: NIP Affiliated Managers ApS | Vehicle: Alcor NI Co-Invest SCSp - Class C
+Legal Entity: Alcor NI Co-Invest SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: Alcor NI Co-Invest SCSp - GP Interest
+Legal Entity: Alcor NI Co-Invest SCSp | Investor: Nordvik Infrastructure Partners Inc. | Vehicle: Alcor NI Co-Invest SCSp - Class C
+Legal Entity: Kommanditselskabet af 20 juni 2023 | Investor: LUQ Pension livsforsikringsaktieselskab | Vehicle: Kommanditselskabet af 20 juni 2023 - Class A
+Legal Entity: Kommanditselskabet af 20 juni 2023 | Investor: Lindmere Pension - Pensionskassen for Innstead | Vehicle: Kommanditselskabet af 20 juni 2023 - Class B
+Legal Entity: Kommanditselskabet af 20 juni 2023 | Investor: Brinwick Pension Forsikringsaktieselskab | Vehicle: Kommanditselskabet af 20 juni 2023 - Class C
+Legal Entity: Alnair NI Co-invest LP | Investor: NIP Affiliated Managers ApS | Vehicle: NIP Affiliated Managers ApS - LP Interest
+Legal Entity: Alnair NI Co-invest LP | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: NIP V Co-Invest GP S.a.r.l
+Legal Entity: Alnair NI Co-invest LP | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: NIP GP Interests Holdings K/S
+Legal Entity: Alnair NI Co-invest LP | Investor: Wrenley Investment Pte. Ltd. | Vehicle: Alnair NI Co-invest LP
+Legal Entity: Avior NI Co-Invest SCSp | Investor: VEM-Ardvik 84 | Vehicle: Avior NI Co-Invest SCSp - LP Interest
+Legal Entity: Avior NI Co-Invest SCSp | Investor: CIS-Ardvik 63 Vermögensverwaltungsgesellschaft mbH | Vehicle: Avior NI Co-Invest SCSp - LP Interest
+Legal Entity: Avior NI Co-Invest SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: Avior NI Co-Invest SCSp - GP Interest
+Legal Entity: Avior NI Co-Invest SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: Avior NI Co-Invest SCSp - LP Interest
+Legal Entity: SCRF NI Co-Invest SCSp | Investor: NI IV Sponsor Investor K/S | Vehicle: SCRF NI Co-Invest SCSp - Class B
+Legal Entity: SCRF NI Co-Invest SCSp | Investor: NI IV Sponsor Investor US K/S | Vehicle: SCRF NI Co-Invest SCSp - Class B
+Legal Entity: SCRF NI Co-Invest SCSp | Investor: NIP Co-invest Blocker K/S | Vehicle: SCRF NI Co-Invest SCSp - Class B
+Legal Entity: SCRF NI Co-Invest SCSp | Investor: COMPTROLLER OF THE STATE OF CLANHOLM DEZ, AS TRUSTEE OF THE COMMON RETIREMENT FUND | Vehicle: SCRF NI Co-Invest SCSp - Class A
+Legal Entity: SCRF NI Co-Invest SCSp | Investor: Nordvik Infrastructure Partners GP Interests Holding K/S | Vehicle: SCRF NI Co-Invest SCSp - Class B
+Legal Entity: SCRF NI Co-Invest SCSp | Investor: SCRF NI Co-Invest GP S.à r.l. | Vehicle: SCRF NI Co-Invest SCSp - GP Interest
+Legal Entity: Whimbrel NI Co-Invest I SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: Whimbrel NI Co-Invest I SCSp - GP Interest
+Legal Entity: Whimbrel NI Co-Invest I SCSp | Investor: Tarnvik National Retirement Service | Vehicle: Whimbrel NI Co-Invest I SCSp - Limited partner
+Legal Entity: Windwardhill NI Co-Invest SCSp | Investor: WID GP Investor AS | Vehicle: Windwardhill NI Co-Invest SCSp
+Legal Entity: Windwardhill NI Co-Invest SCSp | Investor: WID Draymere Funds AS | Vehicle: Windwardhill NI Co-Invest SCSp
+Legal Entity: Woodruff NI Co-Invest SCSp | Investor: Nordvik Infrastructure Co-Invest GP S.à r.l. | Vehicle: Woodruff NI Co-Invest SCSp - GP interest
+Legal Entity: Woodruff NI Co-Invest SCSp | Investor: Lindmere Pension - Pensionskassen for Innstead | Vehicle: Woodruff NI Co-Invest SCSp - LP Interest

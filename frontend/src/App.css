@@ -137,6 +137,28 @@ h1 {
   color: #667085;
 }
 
+.dropzone button {
+  min-height: 40px;
+  padding: 8px 24px;
+  border: none;
+  border-radius: 6px;
+  background: #2563eb;
+  color: #ffffff;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.dropzone button:disabled {
+  background: #9aa8bb;
+  cursor: not-allowed;
+}
+
+.error-message {
+  margin: 0;
+  color: #991b1b;
+  font-size: 14px;
+}
+
 @media (max-width: 760px) {
   .app-shell {
     padding: 20px;

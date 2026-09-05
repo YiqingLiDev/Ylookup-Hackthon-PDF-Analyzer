@@ -10,3 +10,30 @@ export async function getHealth(): Promise<{ status: string }> {
   return response.json();
 }
 
+export async function processStatements(files: File[]): Promise<Blob> {
+  const formData = new FormData();
+  for (const file of files) {
+    formData.append("files", file);
+  }
+
+  const response = await fetch(`${API_BASE_URL}/api/process`, {
+    method: "POST",
+    body: formData,
+  });
+
+  if (!response.ok) {
+    let message = `Request failed with status ${response.status}`;
+    try {
+      const body = await response.json();
+      if (body?.error) {
+        message = body.error;
+      }
+    } catch {
+      // response wasn't JSON; keep the generic message
+    }
+    throw new Error(message);
+  }
+
+  return response.blob();
+}
+

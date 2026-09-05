@@ -13,6 +13,10 @@ class Settings(BaseSettings):
         default="http://localhost:5173",
         validation_alias="BACKEND_CORS_ORIGINS",
     )
+    anthropic_api_key: str = Field(default="", validation_alias="ANTHROPIC_API_KEY")
+    anthropic_model: str = Field(
+        default="claude-sonnet-5", validation_alias="ANTHROPIC_MODEL"
+    )
 
     @computed_field
     @property

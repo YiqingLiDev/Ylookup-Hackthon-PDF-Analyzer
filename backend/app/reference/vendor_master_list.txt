@@ -1,0 +1,246 @@
+Legal Entity Domain: NIP
+Legal Entity Domain: NIP | Vendor: NISC Pte Ltd Singapore - Non - LU
+Legal Entity Domain: NIP | Vendor: WAP Translations
+Legal Entity Domain: NIP | Vendor: Garrfield
+Legal Entity Domain: NIP | Vendor: Garrfield - Non-LU
+Legal Entity Domain: NIP | Vendor: ACD
+Legal Entity Domain: NIP | Vendor: Boardwell - Non-LU
+Legal Entity Domain: NIP | Vendor: Admini. de l Enregistrement - LU
+Legal Entity Domain: NIP | Vendor: Administration des contributions directes
+Legal Entity Domain: NIP | Vendor: Administration des Contributions Directes - LU
+Legal Entity Domain: NIP | Vendor: BLACKTHORN - VAT
+Legal Entity Domain: NIP | Vendor: BRACKEN Advisory
+Legal Entity Domain: NIP | Vendor: Skarsvale GmbH - Non - LU
+Legal Entity Domain: NIP | Vendor: MOK SRL - Non-Lu
+Legal Entity Domain: NIP | Vendor: AL-Draywick & Associates - Non-LU
+Legal Entity Domain: NIP | Vendor: Roskcombe Investment Management SE - NON LU
+Legal Entity Domain: NIP | Vendor: Stannvale (Denmark) ApS - Non - LU
+Legal Entity Domain: NIP | Vendor: Stannvale Fund and Corporate Products S.A. - LU
+Legal Entity Domain: NIP | Vendor: Bramworth
+Legal Entity Domain: NIP | Vendor: Bramworth & Caldmere SA
+Legal Entity Domain: NIP | Vendor: Bramworth & Caldmere SA - LU
+Legal Entity Domain: NIP | Vendor: Zellmont Media Limited
+Legal Entity Domain: NIP | Vendor: Alma J. Thulstrup (UK) Limited - Non-LU
+Legal Entity Domain: NIP | Vendor: Innberg - LU
+Legal Entity Domain: NIP | Vendor: Innberg - Non LU
+Legal Entity Domain: NIP | Vendor: Carrcombe Energy Research LLC
+Legal Entity Domain: NIP | Vendor: Authorite des Marchers Financiers - Non - LU
+Legal Entity Domain: NIP | Vendor: Autorité des marchés financiers - Non LU
+Legal Entity Domain: NIP | Vendor: FAH, XIR and SEW LLC
+Legal Entity Domain: NIP | Vendor: FAH, XIR AND SEW LLC - Non-Lu
+Legal Entity Domain: NIP | Vendor: Oakwold Kirkwick - Non LU
+Legal Entity Domain: NIP | Vendor: Kirkstead Nethberg Lindberg S,C - Non-LU
+Legal Entity Domain: NIP | Vendor: Steenstead-Brinwold - Non-LU
+Legal Entity Domain: NIP | Vendor: Ormhurst Consulting Limited - Non-LU
+Legal Entity Domain: NIP | Vendor: Marketwire Glangarth Group - Non-LU
+Legal Entity Domain: NIP | Vendor: KOP Power Strouddale PTY LTD - Non -LU
+Legal Entity Domain: NIP | Vendor: KOP POWER PARTNERS AS - NON LU
+Legal Entity Domain: NIP | Vendor: Brenneke, Hanne and Partner mbB - Non - LU
+Legal Entity Domain: NIP | Vendor: Havmere and Losholm Abogados SAS - Non-LU
+Legal Entity Domain: NIP | Vendor: Steenvale y Grenwold Denthorpe - Non - LU
+Legal Entity Domain: NIP | Vendor: Rikke Fenger
+Legal Entity Domain: NIP | Vendor: Rikke Fenger - LU
+Legal Entity Domain: NIP | Vendor: Rikke Wangel Notaire - LU
+Legal Entity Domain: NIP | Vendor: Kirkthorpe & Marshaw Attorneys Ltd - Non-LU
+Legal Entity Domain: NIP | Vendor: RAQ Marbeck Communications - Non-LU
+Legal Entity Domain: NIP | Vendor: CE - Nordvik Economics - Non-LU
+Legal Entity Domain: NIP | Vendor: Chamber of Commerce - LU
+Legal Entity Domain: NIP | Vendor: Chambre de Commerce
+Legal Entity Domain: NIP | Vendor: Larchvale Umbford - Non-LU
+Legal Entity Domain: NIP | Vendor: Wickmont Financial Merrworth Ltd - Non-LU
+Legal Entity Domain: NIP | Vendor: Wickmont Partners PartG MBB - Non -LU
+Legal Entity Domain: NIP | Vendor: Gustav Partner - Non-LU
+Legal Entity Domain: NIP | Vendor: NI ABF I DevCo ApS
+Legal Entity Domain: NIP | Vendor: NI IV K/S
+Legal Entity Domain: NIP | Vendor: NI IV KS - Non Lu
+Legal Entity Domain: NIP | Vendor: NI Offshore Wind Korea Co. Ltd - Non - LU
+Legal Entity Domain: NIP | Vendor: NI Service Company ApS
+Legal Entity Domain: NIP | Vendor: NI Service Company Ltd
+Legal Entity Domain: NIP | Vendor: NI CLOUDBERRY BESS TRUST - Non- LU
+Legal Entity Domain: NIP | Vendor: NI US Service Co Inc. - Non - LU
+Legal Entity Domain: NIP | Vendor: NI V COOPERATIEF U.A
+Legal Entity Domain: NIP | Vendor: NIP Fund Solution ApS - Non-LU
+Legal Entity Domain: NIP | Vendor: NIP FUND SOLUTIONS APS - Non-LU
+Legal Entity Domain: NIP | Vendor: NIP Inc. - Non-LU
+Legal Entity Domain: NIP | Vendor: NIP P/S
+Legal Entity Domain: NIP | Vendor: NIP PLATFORM SOLUTIONS APS - Non-LU
+Legal Entity Domain: NIP | Vendor: NISC ApS - Non-LU
+Legal Entity Domain: NIP | Vendor: NISC GmbH - Non - LU
+Legal Entity Domain: NIP | Vendor: NISC Ltd - Non-LU
+Legal Entity Domain: NIP | Vendor: NISC Lux Sarl - LU
+Legal Entity Domain: NIP | Vendor: NISC Pty Ltd - Australia
+Legal Entity Domain: NIP | Vendor: NISC S.L - Non LU
+Legal Entity Domain: NIP | Vendor: Carrstead Brinworth - Non-LU
+Legal Entity Domain: NIP | Vendor: Renewables Sector Council - Non-LU
+Legal Entity Domain: NIP | Vendor: Renewables Capital Association Limited - Non-LU
+Legal Entity Domain: NIP | Vendor: Fennford Fairford DEUTSCHLAND LLP - Non-LU
+Legal Entity Domain: NIP | Vendor: Fennford Fairford Non-LU
+Legal Entity Domain: NIP | Vendor: KOW Jerrthorpe Luxembourg - LU
+Legal Entity Domain: NIP | Vendor: KOW Luxembourg 2.0
+Legal Entity Domain: NIP | Vendor: CNMV - Non-LU
+Legal Entity Domain: NIP | Vendor: Comision Nacional Del Mercado De Valores
+Legal Entity Domain: NIP | Vendor: BRACKFORD LOSWOLD CJSC - Non-LU
+Legal Entity Domain: NIP | Vendor: Contivo
+Legal Entity Domain: NIP | Vendor: Kirkmere Assurance - Non-LU
+Legal Entity Domain: NIP | Vendor: Nordvik Concierges Driven ApS- Non-LU
+Legal Entity Domain: NIP | Vendor: Nordvik Infrastructure Service Company ApS - Non-LU
+Legal Entity Domain: NIP | Vendor: Nordvik Infrastructure V GP ApS - Non LU
+Legal Entity Domain: NIP | Vendor: Nordvik Offshore Partners A/S - Non - LU
+Legal Entity Domain: NIP | Vendor: Nordvik Streaming - Non - LU
+Legal Entity Domain: NIP | Vendor: Selthorpe Advisory P/S - Non-LU
+Legal Entity Domain: NIP | Vendor: Registered Agent Services Company - Non-LU
+Legal Entity Domain: NIP | Vendor: BAC A/S - Non-Lu
+Legal Entity Domain: NIP | Vendor: PIG Quarvale ApS - Non-LU
+Legal Entity Domain: NIP | Vendor: Credit Verrance Corp. and Inv. Bank - Non - LU
+Legal Entity Domain: NIP | Vendor: MAG
+Legal Entity Domain: NIP | Vendor: MAG Global Solutions - LU
+Legal Entity Domain: NIP | Vendor: CHALFIELD Aps - Non-LU
+Legal Entity Domain: NIP | Vendor: Danish Chamber of Commerce China - Non-LU
+Legal Entity Domain: NIP | Vendor: Danish Institute of Arbitration - Non-LU
+Legal Entity Domain: NIP | Vendor: Danish-Chinese Business Forum - Non-LU
+Legal Entity Domain: NIP | Vendor: Havnvik Bank - Non-LU
+Legal Entity Domain: NIP | Vendor: Havnvik Bank AS
+Legal Entity Domain: NIP | Vendor: Eddstead and Zellmere LLP -Non-LU
+Legal Entity Domain: NIP | Vendor: Trentbeck
+Legal Entity Domain: NIP | Vendor: Trentbeck - LU
+Legal Entity Domain: NIP | Vendor: Trentbeck - Non-LU
+Legal Entity Domain: NIP | Vendor: Trentbeck Audit
+Legal Entity Domain: NIP | Vendor: Trentbeck Audit - Lu
+Legal Entity Domain: NIP | Vendor: Trentbeck Consulting Pty Ltd - Non-LU
+Legal Entity Domain: NIP | Vendor: Trentbeck LLP - Non LU
+Legal Entity Domain: NIP | Vendor: Trentbeck Revision
+Legal Entity Domain: NIP | Vendor: Trentbeck Revision - Non-LU
+Legal Entity Domain: NIP | Vendor: Trentbeck Tax and Consulting LUX - LU
+Legal Entity Domain: NIP | Vendor: Trentbeck Tax Services Pty Ltd - Non - LU
+Legal Entity Domain: NIP | Vendor: Garrvale Merrworth - Non-LU
+Legal Entity Domain: NIP | Vendor: FEN LIMITED - Non-LU
+Legal Entity Domain: NIP | Vendor: Calddale Renford A/S - Non - LU
+Legal Entity Domain: NIP | Vendor: Bodil Norlund
+Legal Entity Domain: NIP | Vendor: Haldhurst Stroudcombe Garrshaw Inc - Non-LU
+Legal Entity Domain: NIP | Vendor: Hanne & Quargarth
+Legal Entity Domain: NIP | Vendor: Hanne & Quargarth LLP (US)
+Legal Entity Domain: NIP | Vendor: Hanne hollmont Quargarth LIT - Non LU
+Legal Entity Domain: NIP | Vendor: Etude Notaire Torben Dalsgaard - LU
+Legal Entity Domain: NIP | Vendor: Etude Notaire Johanne Ottesen - LU
+Legal Entity Domain: NIP | Vendor: GED Godkendt Revisionspartnerselskab - Non - LU
+Legal Entity Domain: NIP | Vendor: Financial Market Authority - Non-LU
+Legal Entity Domain: NIP | Vendor: ORMDALE HASLBURY APAC Energy and Infrastructure Pty Ltd - Non-Lu
+Legal Entity Domain: NIP | Vendor: Dunwold Steendale - Non-LU
+Legal Entity Domain: NIP | Vendor: G3 Harrholm Governance Group Limited - Non-LU
+Legal Entity Domain: NIP | Vendor: Merete Gronbaek - Non-LU
+Legal Entity Domain: NIP | Vendor: GRSX B.V - Non - LU
+Legal Entity Domain: NIP | Vendor: Jesper Pehrson - Non-LU
+Legal Entity Domain: NIP | Vendor: Haslwick Carrfield Renbury LLP - Non-LU
+Legal Entity Domain: NIP | Vendor: HMRC Birmingham stamp office
+Legal Entity Domain: NIP | Vendor: Rengarth Ravdale LLP - Non LU
+Legal Entity Domain: NIP | Vendor: Havwick Ltd - Non-LU
+Legal Entity Domain: NIP | Vendor: GRIDWORKS ALLIANCE AU LTD - Non-LU
+Legal Entity Domain: NIP | Vendor: Thurwold Partners LLC - Non-LU
+Legal Entity Domain: NIP | Vendor: International Energy Agency - Non LU
+Legal Entity Domain: NIP | Vendor: Norcombe - LU
+Legal Entity Domain: NIP | Vendor: Norcombe (Luxembourg) S.a r.l. - LU
+Legal Entity Domain: NIP | Vendor: Interlynk Inc
+Legal Entity Domain: NIP | Vendor: Interlynk Inc - Non-LU
+Legal Entity Domain: NIP | Vendor: Interlynk, Inc.
+Legal Entity Domain: NIP | Vendor: Investment Redbeck Institute Pty - Non - LU
+Legal Entity Domain: NIP | Vendor: QEZ Corporate Solutions, Inc. - Non-Lu
+Legal Entity Domain: NIP | Vendor: Verrthorpe Finance B.V. - Non-LU
+Legal Entity Domain: NIP | Vendor: Ivar-Oskar Ahlmark-LU
+Legal Entity Domain: NIP | Vendor: Jakob Dohrmann - LU
+Legal Entity Domain: NIP | Vendor: Selholm 360, Inc. - Non-LU
+Legal Entity Domain: NIP | Vendor: XIR and Lanholm - Non - LU
+Legal Entity Domain: NIP | Vendor: Quardale LLP - Non-LU
+Legal Entity Domain: NIP | Vendor: Jerrholm
+Legal Entity Domain: NIP | Vendor: Jerrholm- Non-Lu
+Legal Entity Domain: NIP | Vendor: FUL
+Legal Entity Domain: NIP | Vendor: FUL - Non-LU
+Legal Entity Domain: NIP | Vendor: FUL Stanfield Tax (DK) - Non-LU
+Legal Entity Domain: NIP | Vendor: FUL Australian - Non-LU
+Legal Entity Domain: NIP | Vendor: FUL P/S - Non-LU
+Legal Entity Domain: NIP | Vendor: FUL US Tax Services (London) LLP
+Legal Entity Domain: NIP | Vendor: FUL US Tax Services (London) LLP - Non-LU
+Legal Entity Domain: NIP | Vendor: Zellwick Attorneys Ltd - Non - LU
+Legal Entity Domain: NIP | Vendor: Lindstead and Partners Co., Ltd - Non-LU
+Legal Entity Domain: NIP | Vendor: Lanford i Tarncombe - Non-LU
+Legal Entity Domain: NIP | Vendor: Oakmont Y Glancombe Lanley, S.L - Non - LU
+Legal Entity Domain: NIP | Vendor: SEW & Ko - Non LU
+Legal Entity Domain: NIP | Vendor: YARDFIELD PTY LTD - Non-Lu
+Legal Entity Domain: NIP | Vendor: Aldervale Aps - Non-LU
+Legal Entity Domain: NIP | Vendor: Ellmont & Chalworth - LU
+Legal Entity Domain: NIP | Vendor: Ellmont & Chalworth - Non-LU
+Legal Entity Domain: NIP | Vendor: Ellmont and Chalworth (USA) B.V. - Non-LU
+Legal Entity Domain: NIP | Vendor: Ellmont and Chalworth Luxembourg Sarl
+Legal Entity Domain: NIP | Vendor: Maitre Bent AHLGREN - LU
+Legal Entity Domain: NIP | Vendor: TRENTSTEAD & ALDERWORTH S. - Non-LU
+Legal Entity Domain: NIP | Vendor: FUZ - Non-LU
+Legal Entity Domain: NIP | Vendor: Ida Palsgaard
+Legal Entity Domain: NIP | Vendor: Ida Palsgaard - LU
+Legal Entity Domain: NIP | Vendor: Stanwold Davwold - Non-LU
+Legal Entity Domain: NIP | Vendor: Grenfield LLP - Non-LU
+Legal Entity Domain: NIP | Vendor: Me Emil Hasselvik
+Legal Entity Domain: NIP | Vendor: VOSSGARTH CONTRACT FENNCOMBE - Non Lu
+Legal Entity Domain: NIP | Vendor: QED Law Offices (Steenholm) - Non LU
+Legal Entity Domain: NIP | Vendor: Trentberg & Skarsford - Non-LU
+Legal Entity Domain: NIP | Vendor: Wickthorpe Denley (Amsterdam) - Non-LU
+Legal Entity Domain: NIP | Vendor: Ulla B. Hillebrandt Consulting - Non-LU
+Legal Entity Domain: NIP | Vendor: Vibeke Egholm - Non LU
+Legal Entity Domain: NIP | Vendor: Bregnholm
+Legal Entity Domain: NIP | Vendor: Halddale Merrmere Tarnhurst (Asia) LLP
+Legal Entity Domain: NIP | Vendor: Halddale Merrmere Tarnhurst Canada LLP - Non-LU
+Legal Entity Domain: NIP | Vendor: Notare Yardmont Dunfield - Non-LU
+Legal Entity Domain: NIP | Vendor: KOL
+Legal Entity Domain: NIP | Vendor: Grenthorpe Stanworth & Umbshaw (UK) LLP - Non Lu
+Legal Entity Domain: NIP | Vendor: BRACKMERE, REDDALE & CALDWICK S.E.N.C.R.L./S.R.L. - Non - LU
+Legal Entity Domain: NIP | Vendor: Haldholm Fennwick ApS - Non - LU
+Legal Entity Domain: NIP | Vendor: Pernille Gitte Grothe -Non-LU
+Legal Entity Domain: NIP | Vendor: Malene Uggla
+Legal Entity Domain: NIP | Vendor: Ellvale Brindale Brincombe Hollfield. Ashcombe. Ltd. Drayberg - Non-LU
+Legal Entity Domain: NIP | Vendor: Ormmere-Kirkshaw Abogados - Non - LU
+Legal Entity Domain: NIP | Vendor: Clanworth.Cantmere Advogados - Non-LU
+Legal Entity Domain: NIP | Vendor: Caldstead - Non - LU
+Legal Entity Domain: NIP | Vendor: Norbury - Non-LU
+Legal Entity Domain: NIP | Vendor: Norbury Advokatpartnerselskab
+Legal Entity Domain: NIP | Vendor: Ashgarth Advisory Pty Ltd - Non-LU
+Legal Entity Domain: NIP | Vendor: CIG
+Legal Entity Domain: NIP | Vendor: CIG - Non LU
+Legal Entity Domain: NIP | Vendor: VANSTEAD RENEWABLE ENERGY COUNCIL- NON - LU
+Legal Entity Domain: NIP | Vendor: Fennberg Ashmere & Partners - Non-LU
+Legal Entity Domain: NIP | Vendor: Nordholt Management Consulting A/S - Non-LU
+Legal Entity Domain: NIP | Vendor: RiskLens BRACKEN - Non LU
+Legal Entity Domain: NIP | Vendor: CECILIE TAZ - Non - LU
+Legal Entity Domain: NIP | Vendor: Ravenscombe Oakworth Associates, Inc. - Non-LU
+Legal Entity Domain: NIP | Vendor: Norford and Trentbury - Non-LU
+Legal Entity Domain: NIP | Vendor: S and S Umbfield - LU
+Legal Entity Domain: NIP | Vendor: S. Vindeby&co - Non-LU
+Legal Entity Domain: NIP | Vendor: SPGX Global Zellthorpe Merrworth Lt - Non - LU
+Legal Entity Domain: NIP | Vendor: Brackvale Group SA - LU
+Legal Entity Domain: NIP | Vendor: OSVIK CONSULTING GROUP PTY LTD - Non-Lu
+Legal Entity Domain: NIP | Vendor: GELMERE - Davdale Al Glanhurst and Partners - Non-LU
+Legal Entity Domain: NIP | Vendor: Scopewell Zellthorpe GmbH - Non-LU
+Legal Entity Domain: NIP | Vendor: Carrmere Merrwold - Non-LU
+Legal Entity Domain: NIP | Vendor: Carrmere Brackgarth and Denwold LLP - Non - LU
+Legal Entity Domain: NIP | Vendor: POR Westberg Clanhurst - LU
+Legal Entity Domain: NIP | Vendor: TAQ&C Innvale Cantshaw - Non - LU
+Legal Entity Domain: NIP | Vendor: HAP Fairgarth BV
+Legal Entity Domain: NIP | Vendor: HAP Fairgarth BV - Non-Lu
+Legal Entity Domain: NIP | Vendor: Northmont Glanvale LLP- Non-LU
+Legal Entity Domain: NIP | Vendor: STUDIO LEGALE ASSOCIATO AD INNBERG LLP - Non LU
+Legal Entity Domain: NIP | Vendor: Studio Notarile De Kjeldsen - Non-LU
+Legal Entity Domain: NIP | Vendor: Grenhurst Danmark AS - Non - LU
+Legal Entity Domain: NIP | Vendor: The Ostdale Firm APS - Non-LU
+Legal Entity Domain: NIP | Vendor: The Vantle Advisory Group Ltd - Non - LU
+Legal Entity Domain: NIP | Vendor: Eastfield
+Legal Entity Domain: NIP | Vendor: Linguaprime - LU
+Legal Entity Domain: NIP | Vendor: Ellworth Investment S.a r.l.
+Legal Entity Domain: NIP | Vendor: Vismar Financial Solutions AB
+Legal Entity Domain: NIP | Vendor: Corveldt (Luxembourg) S.A.R.L.
+Legal Entity Domain: NIP | Vendor: Corveldt Luxembourg
+Legal Entity Domain: NIP | Vendor: Corveldt USA, LLC
+Legal Entity Domain: NIP | Vendor: Davworth Steenhurst Ltd - Non-LU
+Legal Entity Domain: NIP | Vendor: RENSTEAD MANAGEMENT AUSTRALIA - Non-Lu
+Legal Entity Domain: NIP | Vendor: Wickcombe Brackshaw & Kirkbeck Spain S.L.U - Non-LU
+Legal Entity Domain: NIP | Vendor: Ellingsen & Vandell
+Legal Entity Domain: NIP | Vendor: Ellingsen & Vandell - Non-LU
+Legal Entity Domain: NIP | Vendor: Caldthorpe Eddbeck LLP
+Legal Entity Domain: NIP | Vendor: Eaststead Ravcombe Law Firm - Non- LU
+Legal Entity Domain: NIP | Vendor: MOC Notai - Non-LU
