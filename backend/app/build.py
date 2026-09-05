@@ -183,7 +183,13 @@ def build_workbook(rows: list[dict], output_path: Path) -> Path:
             f'IF(OR(ISNUMBER(SEARCH("COMMISSION",F{r})),ISNUMBER(SEARCH("CHARGE",F{r})),'
             f'ISNUMBER(SEARCH("INTEREST",F{r}))),"Other","Review")))))'
         )
-        ws_joined[f"N{r}"] = f'="Cash - Disbursed - " & D{r}'
+        # Conditional on which of credit/debit is populated (U/V) rather than
+        # unconditionally "Disbursed" -- previously every row, including
+        # incoming credits, was hardcoded to "Disbursed", which was silently
+        # wrong for every credit row.
+        ws_joined[f"N{r}"] = (
+            f'=IF(ISNUMBER(U{r}),"Cash - Received - " & D{r},"Cash - Disbursed - " & D{r})'
+        )
         ws_joined[f"O{r}"] = (
             f'=IF(M{r}="Internal","Currency Correcting Credit",'
             f'IF(M{r}="Vendor","Accounts Payable",'
