@@ -11,6 +11,7 @@ export interface JobStatusDTO {
   enrich: StageStatus;
   ready: boolean;
   error: string | null;
+  failed_files: string[];
 }
 
 async function readErrorMessage(response: Response, fallback: string): Promise<string> {
