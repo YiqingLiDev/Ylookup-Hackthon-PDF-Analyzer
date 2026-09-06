@@ -22,6 +22,3 @@ dist/
 .idea/
 .vscode/
 
-# Sample data (may contain realistic account/balance data)
-backend/sample_data/statements/
-
