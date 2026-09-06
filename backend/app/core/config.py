@@ -13,7 +13,7 @@ _ENV_FILE = Path(__file__).resolve().parents[2] / ".env"
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=_ENV_FILE, env_file_encoding="utf-8")
 
-    app_name: str = "AnalystAI API"
+    app_name: str = "SourceLine API"
     environment: str = "development"
     backend_cors_origins_raw: str = Field(
         default="http://localhost:5173",

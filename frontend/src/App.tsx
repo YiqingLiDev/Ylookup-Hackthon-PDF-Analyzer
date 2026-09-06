@@ -84,7 +84,7 @@ function App() {
         <header className="topbar">
           <div className="brand">
             <FileText aria-hidden="true" size={24} />
-            <span>AnalystAI</span>
+            <span>SourceLine</span>
           </div>
           <div className={`status-pill status-${apiStatus}`}>
             <Server aria-hidden="true" size={16} />
