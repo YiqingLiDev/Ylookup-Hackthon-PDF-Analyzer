@@ -1,2 +1,2 @@
-"""Ylookup PDF Analyzer API package."""
+"""AnalystAI API package."""
 

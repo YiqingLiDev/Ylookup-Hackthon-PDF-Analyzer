@@ -28,7 +28,7 @@ async def process(
                 status_code=400, detail=f"Only PDF files are accepted: {f.filename}"
             )
 
-    tmp_dir = Path(tempfile.mkdtemp(prefix="sourceline-"))
+    tmp_dir = Path(tempfile.mkdtemp(prefix="analystai-"))
     pdf_dir = tmp_dir / "input"
     pdf_dir.mkdir()
 
@@ -88,5 +88,5 @@ async def download_job(job_id: str) -> FileResponse:
         media_type=(
             "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
         ),
-        filename="sourceline-output.xlsx",
+        filename="analystai-output.xlsx",
     )

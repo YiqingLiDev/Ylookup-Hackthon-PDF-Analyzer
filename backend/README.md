@@ -1,6 +1,7 @@
 # Backend
 
-FastAPI service for the Ylookup PDF Analyzer.
+FastAPI service for AnalystAI. See the [root README](../README.md) for the full
+pipeline overview and setup instructions.
 
 ## Development
 
@@ -12,10 +13,9 @@ cp .env.example .env
 uvicorn app.main:app --reload
 ```
 
-## Useful Commands
+## Useful commands
 
 ```bash
 pytest
 ruff check .
 ```
-

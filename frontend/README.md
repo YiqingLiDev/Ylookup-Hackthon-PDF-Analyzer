@@ -1,6 +1,7 @@
 # Frontend
 
-React/Vite client for the Ylookup PDF Analyzer.
+React/Vite client for AnalystAI. See the [root README](../README.md) for the
+full pipeline overview.
 
 ## Development
 
@@ -9,4 +10,3 @@ npm install
 cp .env.example .env
 npm run dev
 ```
-

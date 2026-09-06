@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import logging
 import threading
+import time
 from typing import TypeVar
 
 from google import genai
@@ -20,6 +21,7 @@ from app.core.config import settings
 logger = logging.getLogger(__name__)
 
 MAX_RETRIES = 2
+RETRY_BACKOFF_SECONDS = 1.5  # exponential: 1.5s, 3s between attempts
 
 T = TypeVar("T", bound=BaseModel)
 
@@ -88,6 +90,14 @@ def generate_structured(parts: list, response_schema: type[T], label: str = "") 
         except Exception as exc:
             last_error = exc
             logger.warning("%sGemini call attempt %s/%s failed: %s", tag, attempt + 1, MAX_RETRIES + 1, exc)
+
+        if attempt < MAX_RETRIES:
+            # Transient failures (rate limits, brief DNS/network blips) get a
+            # real chance to clear before the next attempt instead of being
+            # retried within milliseconds of the same failure.
+            delay = RETRY_BACKOFF_SECONDS * (2**attempt)
+            logger.info("%sretrying in %.1fs", tag, delay)
+            time.sleep(delay)
 
     logger.error("%sGemini call failed after %s attempts: %s", tag, MAX_RETRIES + 1, last_error)
     return None

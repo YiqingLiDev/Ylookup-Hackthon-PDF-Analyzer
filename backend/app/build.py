@@ -1,10 +1,10 @@
 """Stage 4 -- Join & Build: writes the final Staging Sheet workbook.
 
-Adapted directly from the validated reference script
-`sample_data/join_with_masterlists.py` (kept as reference only, not
-imported at runtime per the brief) -- the formula strings, ArrayFormula
-usage, dynamic max-row computation, and helper columns (Z/AA/AB) are
-carried over unchanged. The differences from that script:
+Adapted directly from a validated reference script (a standalone join
+prototype run manually against a fixed Input/Output folder pair, not part
+of this repo) -- the formula strings, ArrayFormula usage, dynamic max-row
+computation, and helper columns (Z/AA/AB) are carried over unchanged. The
+differences from that script:
 
 - Loads `Staging_Sheet_Join_Kit.xlsx` fresh from app/reference/ for every
   request instead of reading a pre-existing Combined_Raw_Data.xlsx from an

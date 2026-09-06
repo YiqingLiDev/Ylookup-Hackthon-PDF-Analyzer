@@ -175,7 +175,7 @@ async def run_job(job_id: str, pdf_paths: list[Path]) -> None:
         enriched_rows.extend(_failed_file_placeholder_row(name) for name in failed_files)
         job.enrich = "done"
 
-        output_path = job.tmp_dir / "sourceline-output.xlsx"
+        output_path = job.tmp_dir / "analystai-output.xlsx"
         await asyncio.to_thread(build_workbook, enriched_rows, output_path)
         job.output_path = output_path
         job.ready = True

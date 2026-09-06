@@ -13,7 +13,7 @@ _ENV_FILE = Path(__file__).resolve().parents[2] / ".env"
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=_ENV_FILE, env_file_encoding="utf-8")
 
-    app_name: str = "Sourceline API"
+    app_name: str = "AnalystAI API"
     environment: str = "development"
     backend_cors_origins_raw: str = Field(
         default="http://localhost:5173",
@@ -21,7 +21,7 @@ class Settings(BaseSettings):
     )
     gemini_api_key: str = Field(default="", validation_alias="GEMINI_API_KEY")
     gemini_model: str = Field(
-        default="gemini-3.1-pro", validation_alias="GEMINI_MODEL"
+        default="gemini-3.1-pro-preview", validation_alias="GEMINI_MODEL"
     )
 
     @computed_field
